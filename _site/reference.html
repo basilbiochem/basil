@@ -19,7 +19,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="last-modified" content="2019-03-06 17:05:53 -0500">
+    <meta http-equiv="last-modified" content="2019-03-08 17:17:37 -0500">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- meta "search-domain" used for google site search function google_search() -->
     <meta name="search-domain" value="">
@@ -46,7 +46,7 @@
     <link rel="icon" type="image/png" href="./assets/favicons/swc/favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="./assets/favicons/swc/favicon-16x16.png" sizes="16x16" />
     <link rel="icon" type="image/png" href="./assets/favicons/swc/favicon-128.png" sizes="128x128" />
-    <meta name="application-name" content="Software Carpentry - Scientific Programming for Computational Molecular Science"/>
+    <meta name="application-name" content="Software Carpentry - BASIL Biochemistry Curriculum"/>
     <meta name="msapplication-TileColor" content="#FFFFFF" />
     <meta name="msapplication-TileImage" content="./assets/favicons/swc/mstile-144x144.png" />
     <meta name="msapplication-square70x70logo" content="./assets/favicons/swc/mstile-70x70.png" />
@@ -61,7 +61,7 @@
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
-    <title>Scientific Programming for Computational Molecular Science</title>
+    <title>BASIL Biochemistry Curriculum</title>
   </head>
   <body>
 
@@ -97,8 +97,8 @@
       </button>
 
       
-      <a href="http://molssi.org/" class="pull-left">
-        <img class="navbar-logo" src="./assets/img/molssi_main_logo.png" alt="The Molecular Sciences Software Institute" />
+      <a href="http://basiliuse.blogspot.com" class="pull-left">
+        <img class="navbar-logo" src="./assets/img/basil_main_logo.jpg" alt="BASIL" />
       </a>
 
       
@@ -108,8 +108,6 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
 
-	
-        <li><a href="./CODE_OF_CONDUCT.html">Code of Conduct</a></li>
 
         
 	
@@ -117,26 +115,30 @@
 
         
         <li class="dropdown">
-          <a href="./" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Episodes <span class="caret"></span></a>
+          <a href="./" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Modules <span class="caret"></span></a>
           <ul class="dropdown-menu">
             
-            <li><a href="./01-introduction/index.html">Introduction</a></li>
+            <li><a href="./01-pymol-promol/index.html">PyMOL and ProMOL</a></li>
             
-            <li><a href="./02-file_parsing/index.html">File Parsing</a></li>
+            <li><a href="./02-blast/index.html">BLAST</a></li>
             
-            <li><a href="./03-multiple_files/index.html">Processing Multiple Files and Writing Files</a></li>
+            <li><a href="./03-pfam/index.html">Pfam</a></li>
             
-            <li><a href="./04-tabular_data/index.html">Working with Tabular Data</a></li>
+            <li><a href="./04-dali/index.html">Dali</a></li>
             
-            <li><a href="./05-plotting/index.html">Plotting and Data Visualization</a></li>
+            <li><a href="./05-pyrx/index.html">PyRx for Small Molecule Docking</a></li>
             
-            <li><a href="./06-functions/index.html">Writing Functions</a></li>
+            <li><a href="./06-expression/index.html">Inducible Expression</a></li>
             
-            <li><a href="./07-command_line/index.html">Running code from the Linux Command Line</a></li>
+            <li><a href="./07-purification/index.html">Protein Purification</a></li>
             
-            <li><a href="./08-testing/index.html">Testing Code</a></li>
+            <li><a href="./08-concentration/index.html">Measurement of Protein Concentration</a></li>
             
-            <li><a href="./09-git/index.html">Version Control and Sharing Code</a></li>
+            <li><a href="./09-sds-page/index.html">SDS PAGE Analysis of Expressed and Purified Proteins</a></li>
+            
+            <li><a href="./10-activity/index.html">Enzyme Activity Assays</a></li>
+            
+            <li><a href="./11-kinetics/index.html">Enzyme Kinetics</a></li>
             
 	    <li role="separator" class="divider"></li>
             <li><a href="./aio.html">All in one page (Beta)</a></li>
@@ -151,7 +153,7 @@
           <ul class="dropdown-menu">
             <li><a href="./reference.html">Reference</a></li>
             
-            <li><a href="./about/index.html">About</a></li>
+            <li><a href="./about/index.html">About BASIL</a></li>
             
             <li><a href="./discuss/index.html">Discussion</a></li>
             
@@ -164,9 +166,8 @@
 	
 
 	
-        <li><a href="./LICENSE.html">License</a></li>
 	
-	<li><a href="/edit//reference.md">Improve this page <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span></a></li>
+
 	
       </ul>
       <form class="navbar-form navbar-right" role="search" id="search" onsubmit="google_search(); return false;">
@@ -192,7 +193,7 @@
 
 
 
-<h1 class="maintitle"><a href="./index.html">Scientific Programming for Computational Molecular Science</a></h1>
+<h1 class="maintitle"><a href="./index.html">BASIL Biochemistry Curriculum</a></h1>
 
 <article>
 
@@ -215,15 +216,12 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./01-introduction/index.html">Introduction</a>
+        <a href="./01-pymol-promol/index.html">PyMOL and ProMOL</a>
       </td>
       <td class="col-md-9">
         <ul>
         
-        <li><p>You can assign the values of several variables at once.</p>
-</li>
-        
-        <li><p>Indentation is very important in <code class="highlighter-rouge">for</code> loops and <code class="highlighter-rouge">if</code> statements.  Don’t forget the <code class="highlighter-rouge">:</code> and to indent the items in the loop.</p>
+        <li><p>PyMOl and ProMOL must be installed on user computers.</p>
 </li>
         
         </ul>
@@ -234,101 +232,7 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./02-file_parsing/index.html">File Parsing</a>
-      </td>
-      <td class="col-md-9">
-        <ul>
-        
-        <li><p>One of the most flexible ways to read in the lines of a file is the <code class="highlighter-rouge">readlines()</code> function.</p>
-</li>
-        
-        <li><p>An <code class="highlighter-rouge">if</code> statement can be used to find a particular string within a file.</p>
-</li>
-        
-        <li><p>The split() function can be used to seperate the elements of a string.</p>
-</li>
-        
-        <li><p>You will often need to recast data into a different data type when it was read in as a string.</p>
-</li>
-        
-        </ul>
-      </td>
-    </tr>
-  
-
-  
-    <tr>
-      <td class="col-md-3">
-        <a href="./03-multiple_files/index.html">Processing Multiple Files and Writing Files</a>
-      </td>
-      <td class="col-md-9">
-        <ul>
-        
-        <li><p>Use the glob function in the python library glob to find all the files you want to analyze.</p>
-</li>
-        
-        <li><p>You can have multiple <code class="highlighter-rouge">for</code> loops nested inside each other.</p>
-</li>
-        
-        <li><p>Python can only print strings to files.</p>
-</li>
-        
-        <li><p>Don’t forget to close files so python will actually write them.</p>
-</li>
-        
-        </ul>
-      </td>
-    </tr>
-  
-
-  
-    <tr>
-      <td class="col-md-3">
-        <a href="./04-tabular_data/index.html">Working with Tabular Data</a>
-      </td>
-      <td class="col-md-9">
-        <ul>
-        
-        <li><p>If you are reading in a file that is mostly numerical data, there are better ways to read in the data than using <code class="highlighter-rouge">readlines()</code>.</p>
-</li>
-        
-        <li><p>The notation to refer to a particular element of an array is ‘array_name[row,column]’.</p>
-</li>
-        
-        <li><p>Typically, you should not write a function to perform a standard math operation. The function probably already exists in <code class="highlighter-rouge">numpy</code>.</p>
-</li>
-        
-        </ul>
-      </td>
-    </tr>
-  
-
-  
-    <tr>
-      <td class="col-md-3">
-        <a href="./05-plotting/index.html">Plotting and Data Visualization</a>
-      </td>
-      <td class="col-md-9">
-        <ul>
-        
-        <li><p>The <code class="highlighter-rouge">matplotlib</code> library is the most commonly used plotting library.</p>
-</li>
-        
-        <li><p>You can import libraries with shorthand names.</p>
-</li>
-        
-        <li><p>You can save a figure with the <code class="highlighter-rouge">savefig</code> command.</p>
-</li>
-        
-        </ul>
-      </td>
-    </tr>
-  
-
-  
-    <tr>
-      <td class="col-md-3">
-        <a href="./06-functions/index.html">Writing Functions</a>
+        <a href="./02-blast/index.html">BLAST</a>
       </td>
       <td class="col-md-9">
         <ul>
@@ -344,15 +248,12 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./07-command_line/index.html">Running code from the Linux Command Line</a>
+        <a href="./03-pfam/index.html">Pfam</a>
       </td>
       <td class="col-md-9">
         <ul>
         
-        <li><p>You must <code class="highlighter-rouge">import sys</code> in your code to accept user arguments.</p>
-</li>
-        
-        <li><p>The name of the script itself is always <code class="highlighter-rouge">sys.argv[0]</code> so the first user input is normally <code class="highlighter-rouge">sys.argv[1]</code>.</p>
+        <li><p>First point goes here.</p>
 </li>
         
         </ul>
@@ -363,18 +264,12 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./08-testing/index.html">Testing Code</a>
+        <a href="./04-dali/index.html">Dali</a>
       </td>
       <td class="col-md-9">
         <ul>
         
-        <li><p>The python package pytest looks for functions that start with <em>test</em> to run.</p>
-</li>
-        
-        <li><p>It is particularly important to write tests for the edge and corner cases of your functions.</p>
-</li>
-        
-        <li><p>While writing tests can seem time consuming, they are essential to writing good code.  Testing is particularly important when multiple people are collaborating on a complex code.</p>
+        <li><p>First point goes here.</p>
 </li>
         
         </ul>
@@ -385,18 +280,108 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./09-git/index.html">Version Control and Sharing Code</a>
+        <a href="./05-pyrx/index.html">PyRx for Small Molecule Docking</a>
       </td>
       <td class="col-md-9">
         <ul>
         
-        <li><p>Version control keeps a complete, organized history of all work on a project.  It is extremely useful whether you are working individually or on a team.</p>
+        <li><p>First point goes here.</p>
 </li>
         
-        <li><p>Good commit messages are critical to maintaining an organized and useful repository.</p>
+        </ul>
+      </td>
+    </tr>
+  
+
+  
+    <tr>
+      <td class="col-md-3">
+        <a href="./06-expression/index.html">Inducible Expression</a>
+      </td>
+      <td class="col-md-9">
+        <ul>
+        
+        <li><p>First point goes here.</p>
 </li>
         
-        <li><p>Putting your code on GitHub is the best way to easily share your code, collaborate, and track changes.</p>
+        </ul>
+      </td>
+    </tr>
+  
+
+  
+    <tr>
+      <td class="col-md-3">
+        <a href="./07-purification/index.html">Protein Purification</a>
+      </td>
+      <td class="col-md-9">
+        <ul>
+        
+        <li><p>First point goes here.</p>
+</li>
+        
+        </ul>
+      </td>
+    </tr>
+  
+
+  
+    <tr>
+      <td class="col-md-3">
+        <a href="./08-concentration/index.html">Measurement of Protein Concentration</a>
+      </td>
+      <td class="col-md-9">
+        <ul>
+        
+        <li><p>First point goes here.</p>
+</li>
+        
+        </ul>
+      </td>
+    </tr>
+  
+
+  
+    <tr>
+      <td class="col-md-3">
+        <a href="./09-sds-page/index.html">SDS PAGE Analysis of Expressed and Purified Proteins</a>
+      </td>
+      <td class="col-md-9">
+        <ul>
+        
+        <li><p>First point goes here.</p>
+</li>
+        
+        </ul>
+      </td>
+    </tr>
+  
+
+  
+    <tr>
+      <td class="col-md-3">
+        <a href="./10-activity/index.html">Enzyme Activity Assays</a>
+      </td>
+      <td class="col-md-9">
+        <ul>
+        
+        <li><p>First point goes here.</p>
+</li>
+        
+        </ul>
+      </td>
+    </tr>
+  
+
+  
+    <tr>
+      <td class="col-md-3">
+        <a href="./11-kinetics/index.html">Enzyme Kinetics</a>
+      </td>
+      <td class="col-md-9">
+        <ul>
+        
+        <li><p>First point goes here.</p>
 </li>
         
         </ul>
@@ -420,20 +405,18 @@
   <div class="row">
     <div class="col-md-6 copyright" align="left">
         Copyright &copy; 2018–2019
-	<a href="http://molssi.org">The Molecular Sciences Software Institute</a>
+	<a href="http://basiliuse.blogspot.com/">The BASIL Biochemistry Consortium</a>
     </div>
     <div class="col-md-6 help-links" align="right">
 	
 	<a href="/edit/gh-pages/reference.md">Edit on GitHub</a>
 	
 	/
-	<a href="/blob/gh-pages/CONTRIBUTING.md">Contributing</a>
-	/
 	<a href="/">Source</a>
 	/
 	<a href="/blob/gh-pages/CITATION">Cite</a>
 	/
-	<a href="mailto:education@molssi.org">Contact</a>
+	<a href="mailto:basilbiochem@gmail.com">Contact</a>
     </div>
   </div>
   <div class="row">

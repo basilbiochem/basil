@@ -19,7 +19,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="last-modified" content="2019-03-06 17:05:53 -0500">
+    <meta http-equiv="last-modified" content="2019-03-08 17:17:37 -0500">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- meta "search-domain" used for google site search function google_search() -->
     <meta name="search-domain" value="">
@@ -46,7 +46,7 @@
     <link rel="icon" type="image/png" href="./assets/favicons/swc/favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="./assets/favicons/swc/favicon-16x16.png" sizes="16x16" />
     <link rel="icon" type="image/png" href="./assets/favicons/swc/favicon-128.png" sizes="128x128" />
-    <meta name="application-name" content="Software Carpentry - Scientific Programming for Computational Molecular Science"/>
+    <meta name="application-name" content="Software Carpentry - BASIL Biochemistry Curriculum"/>
     <meta name="msapplication-TileColor" content="#FFFFFF" />
     <meta name="msapplication-TileImage" content="./assets/favicons/swc/mstile-144x144.png" />
     <meta name="msapplication-square70x70logo" content="./assets/favicons/swc/mstile-70x70.png" />
@@ -61,7 +61,7 @@
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
-    <title>Scientific Programming for Computational Molecular Science</title>
+    <title>BASIL Biochemistry Curriculum</title>
   </head>
   <body>
 
@@ -97,8 +97,8 @@
       </button>
 
       
-      <a href="http://molssi.org/" class="pull-left">
-        <img class="navbar-logo" src="./assets/img/molssi_main_logo.png" alt="The Molecular Sciences Software Institute" />
+      <a href="http://basiliuse.blogspot.com" class="pull-left">
+        <img class="navbar-logo" src="./assets/img/basil_main_logo.jpg" alt="BASIL" />
       </a>
 
       
@@ -108,8 +108,6 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
 
-	
-        <li><a href="./CODE_OF_CONDUCT.html">Code of Conduct</a></li>
 
         
 	
@@ -117,26 +115,30 @@
 
         
         <li class="dropdown">
-          <a href="./" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Episodes <span class="caret"></span></a>
+          <a href="./" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Modules <span class="caret"></span></a>
           <ul class="dropdown-menu">
             
-            <li><a href="./01-introduction/index.html">Introduction</a></li>
+            <li><a href="./01-pymol-promol/index.html">PyMOL and ProMOL</a></li>
             
-            <li><a href="./02-file_parsing/index.html">File Parsing</a></li>
+            <li><a href="./02-blast/index.html">BLAST</a></li>
             
-            <li><a href="./03-multiple_files/index.html">Processing Multiple Files and Writing Files</a></li>
+            <li><a href="./03-pfam/index.html">Pfam</a></li>
             
-            <li><a href="./04-tabular_data/index.html">Working with Tabular Data</a></li>
+            <li><a href="./04-dali/index.html">Dali</a></li>
             
-            <li><a href="./05-plotting/index.html">Plotting and Data Visualization</a></li>
+            <li><a href="./05-pyrx/index.html">PyRx for Small Molecule Docking</a></li>
             
-            <li><a href="./06-functions/index.html">Writing Functions</a></li>
+            <li><a href="./06-expression/index.html">Inducible Expression</a></li>
             
-            <li><a href="./07-command_line/index.html">Running code from the Linux Command Line</a></li>
+            <li><a href="./07-purification/index.html">Protein Purification</a></li>
             
-            <li><a href="./08-testing/index.html">Testing Code</a></li>
+            <li><a href="./08-concentration/index.html">Measurement of Protein Concentration</a></li>
             
-            <li><a href="./09-git/index.html">Version Control and Sharing Code</a></li>
+            <li><a href="./09-sds-page/index.html">SDS PAGE Analysis of Expressed and Purified Proteins</a></li>
+            
+            <li><a href="./10-activity/index.html">Enzyme Activity Assays</a></li>
+            
+            <li><a href="./11-kinetics/index.html">Enzyme Kinetics</a></li>
             
 	    <li role="separator" class="divider"></li>
             <li><a href="./aio.html">All in one page (Beta)</a></li>
@@ -151,7 +153,7 @@
           <ul class="dropdown-menu">
             <li><a href="./reference.html">Reference</a></li>
             
-            <li><a href="./about/index.html">About</a></li>
+            <li><a href="./about/index.html">About BASIL</a></li>
             
             <li><a href="./discuss/index.html">Discussion</a></li>
             
@@ -164,9 +166,8 @@
 	
 
 	
-        <li><a href="./LICENSE.html">License</a></li>
 	
-	<li><a href="/edit//index.md">Improve this page <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span></a></li>
+
 	
       </ul>
       <form class="navbar-form navbar-right" role="search" id="search" onsubmit="google_search(); return false;">
@@ -192,21 +193,18 @@
 
 
 
-<h1 class="maintitle"><a href="./index.html">Scientific Programming for Computational Molecular Science</a></h1>
+<h1 class="maintitle"><a href="./index.html">BASIL Biochemistry Curriculum</a></h1>
 
 <article>
-  <p>This lesson by the <a href="http://molssi.org/">Molecular Sciences Software Institute</a>(MolSSI) teaches users fundamentals of scientific programming used in computational molecular sciences.  The material is designed for undergraduate students, or other early career students, who have no prior programming experience.
- To see the full MolSSI’s education mission statement, please see
-<a href="http://molssi.org/education/education-mission-statement/">here</a>.</p>
+  <p>This curriculum from the <a href="http://basiliuse.blogspot.com">BASIL biochemistry consortium</a> (Biochemistry Authentic Scientific Inquiry Laboratory) aims to develop students’ skills in protein biochemistry and maturation as scientists.  Students will analyze proteins of unknown function using wet-lab bench techniques as well as computational analysis.  Further details about BASIL can be found on the <a href="basiliuse.blogspot.com">BASIL blog</a>. While applicable at more introductory levels, BASIL is targeted to students in upper-level years of a biology, biochemistry, or chemistry major.</p>
 
-<p><strong>This lesson is under development, please report issues to the <a href="https://github.com/MolSSI-Education/undergrad_workshop">GitHub
+<p>These lessons are typically used as part of biochemistry laboratory coursework, typically an upper-level undergraduate course with at least one semester of biochemistry as a pre-requisite or co-requisite. The class may be part of a required sequence of study for biochemistry majors and often draws students from various science majors. Participants are typically juniors or seniors. The lab has been designed for classes ranging from 10-24 students (working in teams of two or three) per lab section, with one faculty member and one undergraduate teaching assistant.  This lesson could be adapted to laboratory courses for introductory biology, cell and molecular biology, or advanced biology labs.</p>
+
+<h4 id="acknowledgements">Acknowledgements</h4>
+<p>This work is supported by NSF IUSE 1503811, 1503699, 1502720, 1503676, 1503710, 1503798, 1503734, 1709170, 1709805, 1709592, 1710583, 1709355, 1709278, and 1710051. The authors also wish to thank all of the faculty and students who have contributed to the development of the BASIL CURE curriculum.</p>
+
+<p><strong>This lesson is under development, please report issues to the <a href="https://github.com/basilbiochem/basil">GitHub
 repository</a></strong></p>
-
-<blockquote class="prereq">
-  <h2 id="prerequisites">Prerequisites</h2>
-
-  <p>Students should be familiar with opening the Terminal window and creating and navigating files in bash.</p>
-</blockquote>
 
 
 </article>
@@ -224,11 +222,15 @@ repository</a></strong></p>
 
 
 <div class="syllabus">
-  <h2 id="schedule">Schedule</h2>
+  <h2 id="schedule">Modules</h2>
 
   
   
   
+  
+    
+  
+    
   
     
   
@@ -266,13 +268,13 @@ repository</a></strong></p>
       <td class="col-md-2">00:00</td>
       <td class="col-md-3">
         
-	1. <a href="./01-introduction/index.html">Introduction</a>
+	1. <a href="./01-pymol-promol/index.html">PyMOL and ProMOL</a>
       </td>
       <td class="col-md-7">
         
           
             
-              What is the basic syntax of the python programming language?
+              How can we align active sites in proteins?
 
               
             
@@ -287,16 +289,16 @@ repository</a></strong></p>
     
     <tr>
       
-      <td class="col-md-2">00:30</td>
+      <td class="col-md-2">00:00</td>
       <td class="col-md-3">
         
-	2. <a href="./02-file_parsing/index.html">File Parsing</a>
+	2. <a href="./02-blast/index.html">BLAST</a>
       </td>
       <td class="col-md-7">
         
           
             
-              How do I sort through all the information in a text file and extract particular pieces of information?
+              First question goes here.
 
               
             
@@ -311,16 +313,16 @@ repository</a></strong></p>
     
     <tr>
       
-      <td class="col-md-2">01:15</td>
+      <td class="col-md-2">00:00</td>
       <td class="col-md-3">
         
-	3. <a href="./03-multiple_files/index.html">Processing Multiple Files and Writing Files</a>
+	3. <a href="./03-pfam/index.html">Pfam</a>
       </td>
       <td class="col-md-7">
         
           
             
-              How do I analyze multiple files at once?
+              First question goes here.
 
               
             
@@ -335,16 +337,16 @@ repository</a></strong></p>
     
     <tr>
       
-      <td class="col-md-2">01:50</td>
+      <td class="col-md-2">00:00</td>
       <td class="col-md-3">
         
-	4. <a href="./04-tabular_data/index.html">Working with Tabular Data</a>
+	4. <a href="./04-dali/index.html">Dali</a>
       </td>
       <td class="col-md-7">
         
           
             
-              How do I work with numerical data presented in tables?
+              First question goes here.
 
               
             
@@ -359,16 +361,16 @@ repository</a></strong></p>
     
     <tr>
       
-      <td class="col-md-2">03:35</td>
+      <td class="col-md-2">00:00</td>
       <td class="col-md-3">
         
-	5. <a href="./05-plotting/index.html">Plotting and Data Visualization</a>
+	5. <a href="./05-pyrx/index.html">PyRx for Small Molecule Docking</a>
       </td>
       <td class="col-md-7">
         
           
             
-              How do I visualize data by making graphs?
+              First question goes here.
 
               
             
@@ -383,16 +385,16 @@ repository</a></strong></p>
     
     <tr>
       
-      <td class="col-md-2">04:15</td>
+      <td class="col-md-2">00:00</td>
       <td class="col-md-3">
         
-	6. <a href="./06-functions/index.html">Writing Functions</a>
+	6. <a href="./06-expression/index.html">Inducible Expression</a>
       </td>
       <td class="col-md-7">
         
           
             
-              How do I write include functions in my code?
+              First question goes here.
 
               
             
@@ -407,16 +409,16 @@ repository</a></strong></p>
     
     <tr>
       
-      <td class="col-md-2">04:15</td>
+      <td class="col-md-2">00:00</td>
       <td class="col-md-3">
         
-	7. <a href="./07-command_line/index.html">Running code from the Linux Command Line</a>
+	7. <a href="./07-purification/index.html">Protein Purification</a>
       </td>
       <td class="col-md-7">
         
           
             
-              How do I move my code from the interactive jupyter notebook to run from the Linux command line?
+              First question goes here.
 
               
             
@@ -431,16 +433,16 @@ repository</a></strong></p>
     
     <tr>
       
-      <td class="col-md-2">04:40</td>
+      <td class="col-md-2">00:00</td>
       <td class="col-md-3">
         
-	8. <a href="./08-testing/index.html">Testing Code</a>
+	8. <a href="./08-concentration/index.html">Measurement of Protein Concentration</a>
       </td>
       <td class="col-md-7">
         
           
             
-              How do I test my functions?
+              First question goes here.
 
               
             
@@ -455,16 +457,64 @@ repository</a></strong></p>
     
     <tr>
       
-      <td class="col-md-2">05:15</td>
+      <td class="col-md-2">00:00</td>
       <td class="col-md-3">
         
-	9. <a href="./09-git/index.html">Version Control and Sharing Code</a>
+	9. <a href="./09-sds-page/index.html">SDS PAGE Analysis of Expressed and Purified Proteins</a>
       </td>
       <td class="col-md-7">
         
           
             
-              How do I share my code with others using git and GitHub?
+              First question goes here.
+
+              
+            
+          
+        
+      </td>
+    </tr>
+    
+  
+    
+    
+    
+    <tr>
+      
+      <td class="col-md-2">00:00</td>
+      <td class="col-md-3">
+        
+	10. <a href="./10-activity/index.html">Enzyme Activity Assays</a>
+      </td>
+      <td class="col-md-7">
+        
+          
+            
+              First question goes here.
+
+              
+            
+          
+        
+      </td>
+    </tr>
+    
+  
+    
+    
+    
+    <tr>
+      
+      <td class="col-md-2">00:00</td>
+      <td class="col-md-3">
+        
+	11. <a href="./11-kinetics/index.html">Enzyme Kinetics</a>
+      </td>
+      <td class="col-md-7">
+        
+          
+            
+              First question goes here.
 
               
             
@@ -478,14 +528,14 @@ repository</a></strong></p>
   
   <tr>
     
-    <td class="col-md-2">05:50</td>
+    <td class="col-md-2">00:00</td>
     <td class="col-md-3">Finish</td>
     <td class="col-md-7"></td>
   </tr>
   </table>
 
   <p>
-    The actual schedule may vary slightly depending on the topics and exercises chosen by the instructor.
+    You may choose to use one or more modules in your course depending on your course objectives.
   </p>
 
 </div>
@@ -497,20 +547,18 @@ repository</a></strong></p>
   <div class="row">
     <div class="col-md-6 copyright" align="left">
         Copyright &copy; 2018–2019
-	<a href="http://molssi.org">The Molecular Sciences Software Institute</a>
+	<a href="http://basiliuse.blogspot.com/">The BASIL Biochemistry Consortium</a>
     </div>
     <div class="col-md-6 help-links" align="right">
 	
 	<a href="/edit/gh-pages/index.md">Edit on GitHub</a>
 	
 	/
-	<a href="/blob/gh-pages/CONTRIBUTING.md">Contributing</a>
-	/
 	<a href="/">Source</a>
 	/
 	<a href="/blob/gh-pages/CITATION">Cite</a>
 	/
-	<a href="mailto:education@molssi.org">Contact</a>
+	<a href="mailto:basilbiochem@gmail.com">Contact</a>
     </div>
   </div>
   <div class="row">
