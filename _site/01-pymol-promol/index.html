@@ -19,7 +19,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="last-modified" content="2019-03-08 17:17:37 -0500">
+    <meta http-equiv="last-modified" content="2019-04-17 11:24:51 -0400">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- meta "search-domain" used for google site search function google_search() -->
     <meta name="search-domain" value="">
@@ -61,7 +61,7 @@
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
-    <title>BASIL Biochemistry Curriculum: PyMOL and ProMOL</title>
+    <title>BASIL Biochemistry Curriculum: Structural Alignment with PyMOL and ProMOL</title>
   </head>
   <body>
 
@@ -118,27 +118,27 @@
           <a href="../" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Modules <span class="caret"></span></a>
           <ul class="dropdown-menu">
             
-            <li><a href="../01-pymol-promol/index.html">PyMOL and ProMOL</a></li>
+            <li><a href="../01-pymol-promol/index.html">Structural Alignment with PyMOL and ProMOL</a></li>
             
-            <li><a href="../02-blast/index.html">BLAST</a></li>
+            <li><a href="../02-blast/index.html">Protein BLAST Search</a></li>
             
-            <li><a href="../03-pfam/index.html">Pfam</a></li>
+            <li><a href="../03-pfam/index.html">Using Pfam to Predict Protein Function</a></li>
             
-            <li><a href="../04-dali/index.html">Dali</a></li>
+            <li><a href="../04-dali/index.html">Structural Alignment with Dali</a></li>
             
-            <li><a href="../05-pyrx/index.html">PyRx for Small Molecule Docking</a></li>
+            <li><a href="../05-pyrx/index.html">Molecular Docking with AutoDock VINA and PyRx</a></li>
             
-            <li><a href="../06-expression/index.html">Inducible Expression</a></li>
+            <li><a href="../06-expression/index.html">Expression of Proteins from Lactose-Inducible Vectors in E. coli</a></li>
             
             <li><a href="../07-purification/index.html">Protein Purification</a></li>
             
             <li><a href="../08-concentration/index.html">Measurement of Protein Concentration</a></li>
             
-            <li><a href="../09-sds-page/index.html">SDS PAGE Analysis of Expressed and Purified Proteins</a></li>
+            <li><a href="../09-sds-page/index.html">Using SDS-PAGE to assess the purification of protein</a></li>
             
-            <li><a href="../10-activity/index.html">Enzyme Activity Assays</a></li>
+            <li><a href="../10-activity/index.html">Protein Activity Assay</a></li>
             
-            <li><a href="../11-kinetics/index.html">Enzyme Kinetics</a></li>
+            <li><a href="../11-kinetics/index.html">Enzyme Kinetics Assay</a></li>
             
 	    <li role="separator" class="divider"></li>
             <li><a href="../aio.html">All in one page (Beta)</a></li>
@@ -222,7 +222,7 @@
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <h1 class="maintitle">PyMOL and ProMOL</h1>
+    <h1 class="maintitle">Structural Alignment with PyMOL and ProMOL</h1>
   </div>
   <div class="col-md-1">
   </div>
@@ -234,15 +234,15 @@
 
   <div class="row">
     <div class="col-md-3">
-      <strong>Teaching:</strong> ?? min
+      <strong>Teaching:</strong> 30 min
       <br/>
-      <strong>Exercises:</strong> ?? min
+      <strong>Exercises:</strong> 90 min
     </div>
     <div class="col-md-9">
       <strong>Questions</strong>
       <ul>
 	
-	<li><p>How can we align active sites in proteins?</p>
+	<li><p>How do you align active sites in proteins with PyMOL and ProMOL?</p>
 </li>
 	
       </ul>
@@ -256,7 +256,16 @@
       <strong>Objectives</strong>
       <ul>
 	
-	<li><p>First learning objective goes here.</p>
+	<li><p>Students will describe typical characteristics of an enzyme active site. Students will understand and be able to explain the term motif and apply it to enzyme active sites.</p>
+</li>
+	
+	<li><p>Students will be able to query structures of unknown function against a library of enzyme active site motif templates.</p>
+</li>
+	
+	<li><p>Students will distinguish between good alignments and poor alignments of unknown versus known proteins based on Levenshtein distance (a measure of the similarity between two data sets), RMSD values (a measure of the differences between values), and visual alignments.</p>
+</li>
+	
+	<li><p>Students will propose a function for proteins of unknown function and develop plans for testing their hypothesis in silico and in vitro.</p>
 </li>
 	
       </ul>
@@ -265,15 +274,20 @@
 
 </blockquote>
 
-<h2 id="using-promol-and-pymol">Using ProMOL and PyMOL</h2>
-<p>This module does blah, blah, blah.</p>
+<p>ProMOL is a plug-in to the PyMOL molecular graphics environment that enables uses to query any protein structure against a library of more than 1000 annotated enzyme active sites. Results include quantitative measures of the alignment as well as visual inspection of the alignment in the PyMOL molecular viewer. By using these modules, students will learn more about enzyme active sites (catalytic sites). ProMOL also allows them to build their own active site templates to further explore their proteins of unknown function.</p>
 
 
 <blockquote class="keypoints">
   <h2>Key Points</h2>
   <ul>
     
-    <li><p>PyMOl and ProMOL must be installed on user computers.</p>
+    <li><p>Your students will use a computer alignment algorithm that includes quantitative measures (Levenshtein distance and RMSD values) and visual inspection to measure quality of alignments.</p>
+</li>
+    
+    <li><p>These results can be compared and contrasted with sequence alignment (BLAST, Pfam) and and full backbone alignment (Dali) results in other BASIL modules.</p>
+</li>
+    
+    <li><p>This module requires that you to install PyMOL and ProMOL on student-accessible computers and requires internet access.</p>
 </li>
     
   </ul>

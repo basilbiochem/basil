@@ -19,7 +19,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="last-modified" content="2019-03-08 17:17:37 -0500">
+    <meta http-equiv="last-modified" content="2019-04-17 11:24:51 -0400">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- meta "search-domain" used for google site search function google_search() -->
     <meta name="search-domain" value="">
@@ -61,7 +61,7 @@
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
-    <title>BASIL Biochemistry Curriculum: Pfam</title>
+    <title>BASIL Biochemistry Curriculum: Using Pfam to Predict Protein Function</title>
   </head>
   <body>
 
@@ -118,27 +118,27 @@
           <a href="../" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Modules <span class="caret"></span></a>
           <ul class="dropdown-menu">
             
-            <li><a href="../01-pymol-promol/index.html">PyMOL and ProMOL</a></li>
+            <li><a href="../01-pymol-promol/index.html">Structural Alignment with PyMOL and ProMOL</a></li>
             
-            <li><a href="../02-blast/index.html">BLAST</a></li>
+            <li><a href="../02-blast/index.html">Protein BLAST Search</a></li>
             
-            <li><a href="../03-pfam/index.html">Pfam</a></li>
+            <li><a href="../03-pfam/index.html">Using Pfam to Predict Protein Function</a></li>
             
-            <li><a href="../04-dali/index.html">Dali</a></li>
+            <li><a href="../04-dali/index.html">Structural Alignment with Dali</a></li>
             
-            <li><a href="../05-pyrx/index.html">PyRx for Small Molecule Docking</a></li>
+            <li><a href="../05-pyrx/index.html">Molecular Docking with AutoDock VINA and PyRx</a></li>
             
-            <li><a href="../06-expression/index.html">Inducible Expression</a></li>
+            <li><a href="../06-expression/index.html">Expression of Proteins from Lactose-Inducible Vectors in E. coli</a></li>
             
             <li><a href="../07-purification/index.html">Protein Purification</a></li>
             
             <li><a href="../08-concentration/index.html">Measurement of Protein Concentration</a></li>
             
-            <li><a href="../09-sds-page/index.html">SDS PAGE Analysis of Expressed and Purified Proteins</a></li>
+            <li><a href="../09-sds-page/index.html">Using SDS-PAGE to assess the purification of protein</a></li>
             
-            <li><a href="../10-activity/index.html">Enzyme Activity Assays</a></li>
+            <li><a href="../10-activity/index.html">Protein Activity Assay</a></li>
             
-            <li><a href="../11-kinetics/index.html">Enzyme Kinetics</a></li>
+            <li><a href="../11-kinetics/index.html">Enzyme Kinetics Assay</a></li>
             
 	    <li role="separator" class="divider"></li>
             <li><a href="../aio.html">All in one page (Beta)</a></li>
@@ -222,7 +222,7 @@
   <div class="col-md-1">
   </div>
   <div class="col-md-10">
-    <h1 class="maintitle">Pfam</h1>
+    <h1 class="maintitle">Using Pfam to Predict Protein Function</h1>
   </div>
   <div class="col-md-1">
   </div>
@@ -234,15 +234,15 @@
 
   <div class="row">
     <div class="col-md-3">
-      <strong>Teaching:</strong> ?? min
+      <strong>Teaching:</strong> 10 min
       <br/>
-      <strong>Exercises:</strong> ?? min
+      <strong>Exercises:</strong> 60 min
     </div>
     <div class="col-md-9">
       <strong>Questions</strong>
       <ul>
 	
-	<li><p>First question goes here.</p>
+	<li><p>How can a protein family be identified from its structure?</p>
 </li>
 	
       </ul>
@@ -256,7 +256,28 @@
       <strong>Objectives</strong>
       <ul>
 	
-	<li><p>First learning objective goes here.</p>
+	<li><p>Students will identify the acceptable syntax and the type of searches that can be done with that format to identify related Pfam superfamilies.</p>
+</li>
+	
+	<li><p>Students will identify additional links on the Pfam site that provide insights into the function of their proteins.</p>
+</li>
+	
+	<li><p>Students will distinguish the terms “family”, “superfamily” and “domain” as they are used in Pfam.</p>
+</li>
+	
+	<li><p>Students will identify the most highly conserved amino acid residues in their protein of interest.</p>
+</li>
+	
+	<li><p>Students will correlate protein sequence and protein function.</p>
+</li>
+	
+	<li><p>Students will identify the limitations of the results provided by Pfam.</p>
+</li>
+	
+	<li><p>Students will integrate Pfam results with results from other bioinformatics tools.</p>
+</li>
+	
+	<li><p>In combination with all of the bioinformatics tools, students will hypothesize a function for their protein structure.</p>
 </li>
 	
       </ul>
@@ -265,15 +286,14 @@
 
 </blockquote>
 
-<h2 id="using-pfam">Using Pfam</h2>
-<p>This module does blah, blah, blah.</p>
+<p>Pfam (“Protein Families”) is a database that groups proteins into evolutionarily related families based on sequence.  Pfam contains over 15,000 families, where each family is defined by a a set of representative members sharing a common “seed” sequence.  A family’s shared sequence is displayed as a Hidden Markov Model (HHM) logo, which presents defining sequence as stacked single-letter amino acids.  Thus, a Pfam search differs from a BLAST search in that Pfam preferentially searches for matches between the query sequence and the seed sequences that define the HHM.  When a user searches the Pfam database, the result displays known families to which the user’s query sequence matches.  Often, a query sequence may belong to more than one family, particularly if the query protein contains multiple structural domains.  In this manner, a Pfam search can give the user information about both the structural domains into which a protein is likely to fold, and the evolutionary homologs with which it many share function. Students are encouraged to view their results from Pfam as information to be integrated with results from other computational and wet lab approaches to narrow the focus of their prediction of protein function.</p>
 
 
 <blockquote class="keypoints">
   <h2>Key Points</h2>
   <ul>
     
-    <li><p>First point goes here.</p>
+    <li><p>Highly conserved amino acid residues does not guarantee similarity in function.</p>
 </li>
     
   </ul>

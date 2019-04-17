@@ -19,7 +19,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="last-modified" content="2019-03-08 17:17:37 -0500">
+    <meta http-equiv="last-modified" content="2019-04-17 11:24:51 -0400">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- meta "search-domain" used for google site search function google_search() -->
     <meta name="search-domain" value="">
@@ -118,27 +118,27 @@
           <a href="./" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Modules <span class="caret"></span></a>
           <ul class="dropdown-menu">
             
-            <li><a href="./01-pymol-promol/index.html">PyMOL and ProMOL</a></li>
+            <li><a href="./01-pymol-promol/index.html">Structural Alignment with PyMOL and ProMOL</a></li>
             
-            <li><a href="./02-blast/index.html">BLAST</a></li>
+            <li><a href="./02-blast/index.html">Protein BLAST Search</a></li>
             
-            <li><a href="./03-pfam/index.html">Pfam</a></li>
+            <li><a href="./03-pfam/index.html">Using Pfam to Predict Protein Function</a></li>
             
-            <li><a href="./04-dali/index.html">Dali</a></li>
+            <li><a href="./04-dali/index.html">Structural Alignment with Dali</a></li>
             
-            <li><a href="./05-pyrx/index.html">PyRx for Small Molecule Docking</a></li>
+            <li><a href="./05-pyrx/index.html">Molecular Docking with AutoDock VINA and PyRx</a></li>
             
-            <li><a href="./06-expression/index.html">Inducible Expression</a></li>
+            <li><a href="./06-expression/index.html">Expression of Proteins from Lactose-Inducible Vectors in E. coli</a></li>
             
             <li><a href="./07-purification/index.html">Protein Purification</a></li>
             
             <li><a href="./08-concentration/index.html">Measurement of Protein Concentration</a></li>
             
-            <li><a href="./09-sds-page/index.html">SDS PAGE Analysis of Expressed and Purified Proteins</a></li>
+            <li><a href="./09-sds-page/index.html">Using SDS-PAGE to assess the purification of protein</a></li>
             
-            <li><a href="./10-activity/index.html">Enzyme Activity Assays</a></li>
+            <li><a href="./10-activity/index.html">Protein Activity Assay</a></li>
             
-            <li><a href="./11-kinetics/index.html">Enzyme Kinetics</a></li>
+            <li><a href="./11-kinetics/index.html">Enzyme Kinetics Assay</a></li>
             
 	    <li role="separator" class="divider"></li>
             <li><a href="./aio.html">All in one page (Beta)</a></li>
@@ -216,12 +216,18 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./01-pymol-promol/index.html">PyMOL and ProMOL</a>
+        <a href="./01-pymol-promol/index.html">Structural Alignment with PyMOL and ProMOL</a>
       </td>
       <td class="col-md-9">
         <ul>
         
-        <li><p>PyMOl and ProMOL must be installed on user computers.</p>
+        <li><p>Your students will use a computer alignment algorithm that includes quantitative measures (Levenshtein distance and RMSD values) and visual inspection to measure quality of alignments.</p>
+</li>
+        
+        <li><p>These results can be compared and contrasted with sequence alignment (BLAST, Pfam) and and full backbone alignment (Dali) results in other BASIL modules.</p>
+</li>
+        
+        <li><p>This module requires that you to install PyMOL and ProMOL on student-accessible computers and requires internet access.</p>
 </li>
         
         </ul>
@@ -232,12 +238,15 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./02-blast/index.html">BLAST</a>
+        <a href="./02-blast/index.html">Protein BLAST Search</a>
       </td>
       <td class="col-md-9">
         <ul>
         
-        <li><p>First point goes here.</p>
+        <li><p>Protein BLAST searches identify sequence similarity between a query protein and a database of other proteins.</p>
+</li>
+        
+        <li><p>Sequence similarity does not guarantee similarity in function.</p>
 </li>
         
         </ul>
@@ -248,12 +257,12 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./03-pfam/index.html">Pfam</a>
+        <a href="./03-pfam/index.html">Using Pfam to Predict Protein Function</a>
       </td>
       <td class="col-md-9">
         <ul>
         
-        <li><p>First point goes here.</p>
+        <li><p>Highly conserved amino acid residues does not guarantee similarity in function.</p>
 </li>
         
         </ul>
@@ -264,12 +273,15 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./04-dali/index.html">Dali</a>
+        <a href="./04-dali/index.html">Structural Alignment with Dali</a>
       </td>
       <td class="col-md-9">
         <ul>
         
-        <li><p>First point goes here.</p>
+        <li><p>Dali searches identify backbone structure similarity between a query protein and 3D structures of proteins from the PDB.</p>
+</li>
+        
+        <li><p>Backbone structure similarity may not guarantee similarity in function since side chains are important for function.</p>
 </li>
         
         </ul>
@@ -280,12 +292,15 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./05-pyrx/index.html">PyRx for Small Molecule Docking</a>
+        <a href="./05-pyrx/index.html">Molecular Docking with AutoDock VINA and PyRx</a>
       </td>
       <td class="col-md-9">
         <ul>
         
-        <li><p>First point goes here.</p>
+        <li><p>Noncovalent interactions stabilize the binding of ligands to macromolecules like proteins.</p>
+</li>
+        
+        <li><p>Ligand binding is complex; chemical modifications to a ligand may not result in changes to the interaction energy due to competing stabilizing and destabilizing interactions.</p>
 </li>
         
         </ul>
@@ -296,12 +311,15 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./06-expression/index.html">Inducible Expression</a>
+        <a href="./06-expression/index.html">Expression of Proteins from Lactose-Inducible Vectors in E. coli</a>
       </td>
       <td class="col-md-9">
         <ul>
         
-        <li><p>First point goes here.</p>
+        <li><p>Introduction of a foreign gene into E. coli allows researchers to express proteins of interest.</p>
+</li>
+        
+        <li><p>Protein expression can be controlled using knowledge of operators and repressors in E. coli.</p>
 </li>
         
         </ul>
@@ -317,7 +335,7 @@
       <td class="col-md-9">
         <ul>
         
-        <li><p>First point goes here.</p>
+        <li><p>Purification of proteins is usually accomplished by lysis, removal of nucleic acids, and affinity chromatography utilizing a 6-histidine tag or fusion protein tag.</p>
 </li>
         
         </ul>
@@ -333,7 +351,10 @@
       <td class="col-md-9">
         <ul>
         
-        <li><p>First point goes here.</p>
+        <li><p>To carry out this lab students need vertical electrophoresis equipment.</p>
+</li>
+        
+        <li><p>The students can use pre-purchased gels or pour their own.</p>
 </li>
         
         </ul>
@@ -344,7 +365,26 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./09-sds-page/index.html">SDS PAGE Analysis of Expressed and Purified Proteins</a>
+        <a href="./09-sds-page/index.html">Using SDS-PAGE to assess the purification of protein</a>
+      </td>
+      <td class="col-md-9">
+        <ul>
+        
+        <li><p>To carry out this lab students need vertical electrophoresis equipment.</p>
+</li>
+        
+        <li><p>The students can use pre-purchased gels or pour their own.</p>
+</li>
+        
+        </ul>
+      </td>
+    </tr>
+  
+
+  
+    <tr>
+      <td class="col-md-3">
+        <a href="./10-activity/index.html">Protein Activity Assay</a>
       </td>
       <td class="col-md-9">
         <ul>
@@ -360,23 +400,7 @@
   
     <tr>
       <td class="col-md-3">
-        <a href="./10-activity/index.html">Enzyme Activity Assays</a>
-      </td>
-      <td class="col-md-9">
-        <ul>
-        
-        <li><p>First point goes here.</p>
-</li>
-        
-        </ul>
-      </td>
-    </tr>
-  
-
-  
-    <tr>
-      <td class="col-md-3">
-        <a href="./11-kinetics/index.html">Enzyme Kinetics</a>
+        <a href="./11-kinetics/index.html">Enzyme Kinetics Assay</a>
       </td>
       <td class="col-md-9">
         <ul>

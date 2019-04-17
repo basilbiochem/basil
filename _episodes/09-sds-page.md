@@ -1,13 +1,17 @@
 ---
-title: "SDS PAGE Analysis of Expressed and Purified Proteins"
-teaching: ??
-exercises: ??
+title: "Using SDS-PAGE to assess the purification of protein"
+teaching: 30
+exercises: 120
 questions:
-- "First question goes here."
+- "How can SDS-PAGE assess the purity of a protein?"
 objectives:
-- "First learning objective goes here."
+- "Students will understand how acrylamide gels are made and manipulated."
+- "Students will be able to estimate protein purity using SDS-PAGE."
+- "Students will characterize the size of a protein using SDS-PAGE."
 keypoints:
-- "First point goes here."
+- "To carry out this lab students need vertical electrophoresis equipment."
+- "The students can use pre-purchased gels or pour their own."
 ---
-## SDS PAGE Analysis of Expressed and Purified Proteins
-This module does blah, blah, blah.
+In this BASIL module, students use Sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE) as a separation technique to assesses the quality of a protein purification scheme. The approach of this module is to explain the mechanism by which SDS-PAGE is able to separate proteins and demonstrate the importance of this technique by having students run their purification samples on a gel. Students will be required to use SDS-PAGE to determine the purity of their protein samples, evaluate the size of their protein product, and correlate their experimental data with known information regarding the size of their protein.
+
+[Protocol](https://docs.google.com/document/d/12o83_VOTVOiJOxq3o4xhQNKc_NtbWeGFz26ZoPd14lY/edit?usp=sharing)
