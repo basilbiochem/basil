@@ -13,7 +13,7 @@ Additional information for instructors is available to registered university fac
 <br/><br/>
 
 #### Acknowledgements
-<img src="../fig/NSF_logo.png" alt="NSF logo" width="100" style="float: left; margin-top: 0px; margin-right: 10px"/>
+<img src="fig/NSF_logo.png" alt="NSF logo" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 
 This work is supported by NSF IUSE 1503811, 1503699, 1502720, 1503676, 1503710, 1503798, 1503734, 1709170, 1709805, 1709592, 1710583, 1709355, 1709278, and 1710051.
 
