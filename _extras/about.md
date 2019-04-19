@@ -3,7 +3,7 @@ title: About BASIL
 ---
 <div class="row">
   <div class="col-md-2" align="center">
-    <a href="{{ site.basil_site }}"><img src="{{ relative_root_path }}/assets/img/basil_main_logo.jpg" alt="BASIL logo" /></a>
+    <a href="{{ site.basil_site }}"><img src="../assets/img/basil_main_logo.jpg" alt="BASIL logo" /></a>
   </div>
   <div class="col-md-8">
     <p><a href="{{ site.basil_site }}">The BASIL biochemistry consortium</a> is a group of chemistry and biochemistry faculty who work to promote
