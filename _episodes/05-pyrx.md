@@ -3,7 +3,7 @@ title: "Molecular Docking with AutoDock VINA and PyRx"
 teaching: 30
 exercises: 120
 questions:
-- "How do I test the binding affinity of a protein with a small molecule ligand?"
+- "How is molecular docking used to screen for small molecule binding?"
 objectives:
 - "Students will explain the file types used in PyRx."
 - "Students will use appropriate inputs and outputs for PyRx."
@@ -18,4 +18,6 @@ keypoints:
 ---
 Computational science is an increasingly important part of biochemistry.  In this lesson, students are taught to use a popular molecular docking software program to probe the function of a protein of unknown function.  Students use the PyRx program to run a docking experiment using AutoDock Vina.  They analyze the binding affinities calculated and visualize their results with molecular visualization software.  This activity aims to increase students’ knowledge of computational science, demonstrate how computational modeling can be a companion to wet lab experiments, and teach students how to interpret results from computational modeling.   
 
-[Protocol](https://docs.google.com/document/d/1Ni77kjCfAvSFSXAkZsboDQ80UUu2YGJ232jS499TR5Y/edit?usp=sharing)
+> ## Module Resources
+>[Download student module here](https://docs.google.com/document/d/1Ni77kjCfAvSFSXAkZsboDQ80UUu2YGJ232jS499TR5Y/edit?usp=sharing)
+{: .callout}

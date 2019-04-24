@@ -3,7 +3,7 @@ title: "Expression of Proteins from Lactose-Inducible Vectors in E. coli"
 teaching: 30
 exercises: 360
 questions:
-- "How do I use bacteria to express a foreign protein?"
+- "How can bacteria be used to express a foreign protein?"
 objectives:
 - "Students will be able to distinguish between an expression vector before and after insertion of a protein’s coding sequence."
 - "Students will be able to describe the following features of an expression vector:  multiple cloning site, T7 promoter region, antibiotic resistance gene, purification tag(s), origin of replication."
@@ -20,4 +20,6 @@ keypoints:
 ---
 This module addresses how to use a bacterial expression system to produce a protein of interest for use in later experimental studies. The BASIL project uses structures of enzymes to predict their function. To test this predicted function, you must produce and purify the enzyme in the lab and then undertake a series of experiments. Enzymes may be isolated from the organism that naturally produces them, or they may be made by introducing a gene encoding the protein into a bacterial expression system. Bacterial expression systems are easy to work with and can produce a large amount of the desired protein in a short amount of time. By the end of this module, students will obtain bacterial cells containing their protein of interest that can be purified and then analyzed by a variety of experiments contained in other BASIL modules.
 
-[Protocol](https://docs.google.com/document/d/13dr2jT8A44r4yG6oTzFsnALfbNnHu_enPkOiVI8G-ek/edit?usp=sharing)
+> ## Module Resources
+>[Download student module here](https://docs.google.com/document/d/13dr2jT8A44r4yG6oTzFsnALfbNnHu_enPkOiVI8G-ek/edit?usp=sharing)
+{: .callout}

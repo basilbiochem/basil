@@ -17,3 +17,7 @@ keypoints:
 - "Highly conserved amino acid residues does not guarantee similarity in function."
 ---
 Pfam (“Protein Families”) is a database that groups proteins into evolutionarily related families based on sequence.  Pfam contains over 15,000 families, where each family is defined by a a set of representative members sharing a common “seed” sequence.  A family’s shared sequence is displayed as a Hidden Markov Model (HHM) logo, which presents defining sequence as stacked single-letter amino acids.  Thus, a Pfam search differs from a BLAST search in that Pfam preferentially searches for matches between the query sequence and the seed sequences that define the HHM.  When a user searches the Pfam database, the result displays known families to which the user’s query sequence matches.  Often, a query sequence may belong to more than one family, particularly if the query protein contains multiple structural domains.  In this manner, a Pfam search can give the user information about both the structural domains into which a protein is likely to fold, and the evolutionary homologs with which it many share function. Students are encouraged to view their results from Pfam as information to be integrated with results from other computational and wet lab approaches to narrow the focus of their prediction of protein function.
+
+> ## Module Resources
+>[Download student module here]()
+{: .callout}

@@ -15,3 +15,7 @@ keypoints:
 
 ---
 Dali is a structural alignment tool that aligns entire protein structures.  The quality of the match is indicated by the z-score.  Other information that can be determined from a Dali search includes the RMSD between the query structure and the similar protein, the length of the alignment, and the sequence similarity between the proteins.
+
+> ## Module Resources
+>[Download student module here]()
+{: .callout}

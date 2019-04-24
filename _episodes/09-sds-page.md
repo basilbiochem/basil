@@ -14,4 +14,6 @@ keypoints:
 ---
 In this BASIL module, students use Sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE) as a separation technique to assesses the quality of a protein purification scheme. The approach of this module is to explain the mechanism by which SDS-PAGE is able to separate proteins and demonstrate the importance of this technique by having students run their purification samples on a gel. Students will be required to use SDS-PAGE to determine the purity of their protein samples, evaluate the size of their protein product, and correlate their experimental data with known information regarding the size of their protein.
 
-[Protocol](https://docs.google.com/document/d/12o83_VOTVOiJOxq3o4xhQNKc_NtbWeGFz26ZoPd14lY/edit?usp=sharing)
+> ## Module Resources
+>[Download student module here](https://docs.google.com/document/d/12o83_VOTVOiJOxq3o4xhQNKc_NtbWeGFz26ZoPd14lY/edit?usp=sharing)
+{: .callout}
