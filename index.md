@@ -19,7 +19,7 @@ This work is supported by NSF IUSE 1503811, 1503699, 1502720, 1503676, 1503710, 
 
 The authors also wish to thank all of the faculty and students who have contributed to the development of the BASIL CURE curriculum.  
 
-<br/>
+<br/><br/><br/><br/>
 
 **This lesson is under development, please report issues to the [GitHub
 repository](https://github.com/basilbiochem/basil)**
