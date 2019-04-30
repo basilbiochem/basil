@@ -10,7 +10,7 @@ objectives:
 - "Students will apply graphical analysis to relate rate of changing substrate/product concentration to enzyme-specific parameters: K<sub>M</sub> and V<sub>max</sub>."
 - "Students will determine the best substrate for your enzyme based on substrate specificity data."
 keypoints:
-- "First point goes here."
+- "Determining kinetic parameters for the enzyme of interest can indicate the best substrate(s) for the enzyme and consequently provide insight into its function within an organism."
 ---
 Protein kinetic assays are used to quantify the process of enzymatic conversion of a substrate to a product. This quantification provides very useful data towards understanding specificity of enzymes towards their substrates. Kinetic assays also help identify inhibitors and lead to enzyme mechanism information. This module describes the process for obtaining kinetic data for both chymotrypsin and a protein of interest for cleavage of para-nitrophenylacetate to obtain K<sub>M</sub> and V<sub>max</sub> values.
 

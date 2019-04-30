@@ -10,11 +10,9 @@ Overall, the BASIL curriculum aims to get students to transition from thinking l
 ## BASIL Learning Objectives
 - Students will predict the function of a protein of unknown function.
 - Students will create and test hypotheses.
-- Students will create formal lab reports with proper citations.
-
 
 ## About BASIL
-- Your students will learn the use software and web applications to explore protein structure and function: sequence alignment, template-based active site alignment and molecular docking.
+- Your students will learn to use software and web applications to explore protein structure and function: sequence alignment, template-based active site alignment and molecular docking.
 - Your students will also use many of the techniques that are traditionally found in biochemistry teaching labs: bacterial cell growth, protein expression, chromatography, protein concentration assays, SDS-PAGE, and enzyme activity assays.
 - You can adapt this curriculum to suit your needs. For example, current BASIL faculty use some or all of the modules. Some have also incorporated other techniques, such as western blots, based on their expertise and teaching goals.
 
