@@ -5,7 +5,7 @@ exercises: 180
 questions:
 - "How can an expressed protein be purified from a bacterial cell preparation?"
 objectives:
-- "Students will Compare the use of sonication vs enzymes vs other disruption techniques for cell wall breakage."
+- "Students will compare the use of sonication vs enzymes vs other disruption techniques for cell wall breakage."
 - "Students will describe how the choice of buffer (and other buffer ingredients and additives) can protect or damage an enzyme’s structure and function."
 - "Students will describe why protein samples should be kept on ice at all times."
 - "Students will give a justification for the statement that proteins should be studied in purified form rather than in the ligand-bound or complexed forms they may take up in the cell."
@@ -18,7 +18,7 @@ objectives:
 keypoints:
 - "Purification of proteins is usually accomplished by lysis, removal of nucleic acids, and affinity chromatography utilizing a 6-histidine tag or fusion protein tag."
 ---
-Protein purification is used to isolate a protein of interest from all other cellular components. In this study, purification includes extracting all proteins from a cell pellet, removing debris such as cell membranes and nucleic acids, and performing metal ion affinity chromatography, which is possible because the protein of interest has a His-tag. Techniques for this exercise include sonication, centrifugation, and chromatography. Students will assess the purity of the protein in a subsequent experiment with SDS-PAGE. If purification was not successful, students will have to identify potential reasons why and test their hypothesis by repeating purification.  The correct protein must be properly tracked throughout the procedure as it is not visible to the human eye. Protein purification is dependent on the successful completion of protein expression and likewise, the only way to determine if protein purification was successful is by completion of all subsequent labs.
+Protein purification is used to isolate a protein of interest from all other cellular components. In this study, purification includes extracting all proteins from a cell pellet, removing debris such as cell membranes and nucleic acids, and performing appropriate affinity chromatography, which is possible because the protein of interest has a tag for the purpose. Techniques for this exercise include sonication, centrifugation, and chromatography. Students will assess the purity of the protein in a subsequent experiment with SDS-PAGE. If purification was not successful, students will have to identify potential reasons why and test their hypothesis by repeating purification.  The correct protein must be properly tracked throughout the procedure as it is not visible to the human eye. Protein purification is dependent on the successful completion of protein expression and likewise, the only way to determine if protein purification was successful is by completion of all subsequent labs.
 
 > ## Module Resources
 >[Download student module here](https://docs.google.com/document/d/1fpPBCLaxMPFWxNmPSMyugIvjqxtKIFj9NiTtbx83drg/edit?usp=sharing)
