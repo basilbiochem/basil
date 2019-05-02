@@ -12,6 +12,7 @@ title: About BASIL
     <h2>Contributors</h2>
     <ul>
     <li>Paul A. Craig, Rochester Institute of Technology</li>
+    <li>Herbert J. Bernstein, Rochester Institute of Technology</li>
     <li>Colette Daubner, St. Mary's University</li>
     <li>Anya Goodman, Cal Poly San Luis Obispo</li>
     <li>Stefan M. Irby, Purdue University</li>

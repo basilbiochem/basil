@@ -1,7 +1,7 @@
 ---
 title: "Enzyme Kinetics Assay"
-teaching: 30
-exercises: 150
+teaching: 60
+exercises: 270
 questions:
 - "How can quantitative values be obtained for an enzymatic reaction?"
 objectives:

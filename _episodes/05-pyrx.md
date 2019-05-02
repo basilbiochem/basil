@@ -1,7 +1,7 @@
 ---
 title: "Molecular Docking with AutoDock VINA and PyRx"
 teaching: 30
-exercises: 120
+exercises: 180
 questions:
 - "How is molecular docking used to screen for small molecule binding?"
 objectives:

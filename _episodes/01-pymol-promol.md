@@ -1,7 +1,7 @@
 ---
 title: "Structural Alignment with PyMOL and ProMOL"
 teaching: 30
-exercises: 90
+exercises: 120
 questions:
 - "How are PyMOL and ProMOL used to align active sites?"
 objectives:

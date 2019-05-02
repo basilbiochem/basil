@@ -1,7 +1,7 @@
 ---
 title: "Expression of Proteins from Lactose-Inducible Vectors in E. coli"
-teaching: 30
-exercises: 360
+teaching: 60
+exercises: 450
 questions:
 - "How can bacteria be used to express a foreign protein?"
 objectives:

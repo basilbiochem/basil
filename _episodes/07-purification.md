@@ -1,7 +1,7 @@
 ---
 title: "Protein Purification"
 teaching: 45
-exercises: 180
+exercises: 300
 questions:
 - "How can an expressed protein be purified from a bacterial cell preparation?"
 objectives:

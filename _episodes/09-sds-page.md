@@ -1,7 +1,7 @@
 ---
 title: "Using SDS-PAGE to assess the purification of protein"
 teaching: 30
-exercises: 120
+exercises: 180
 questions:
 - "How can SDS-PAGE assess the purity of a protein?"
 objectives:

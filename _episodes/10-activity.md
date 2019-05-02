@@ -1,7 +1,7 @@
 ---
 title: "Protein Activity Assay"
 teaching: 30
-exercises: 120
+exercises: 240
 questions:
 - "What molecules can act as substrates for our protein of interest?"
 objectives:
