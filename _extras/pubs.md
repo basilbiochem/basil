@@ -1,6 +1,6 @@
 ---
 title: Publications
 ---
-This is a placeholder to list the BASIL publications.
+Publications list coming soon!
 
 {% include links.md %}

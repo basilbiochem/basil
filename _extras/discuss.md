@@ -1,6 +1,6 @@
 ---
 title: Discussion
 ---
-FIXME
+Discussion forum coming soon!
 
 {% include links.md %}
