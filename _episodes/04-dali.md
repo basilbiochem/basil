@@ -14,7 +14,9 @@ keypoints:
 - "Backbone structure similarity may not guarantee similarity in function since side chains are important for function."
 
 ---
+<img src="../fig/dali.png" alt="Dali" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 Dali is a structural alignment tool that aligns entire protein structures.  The quality of the match is indicated by the z-score.  Other information that can be determined from a Dali search includes the RMSD between the query structure and the similar protein, the length of the alignment, and the sequence similarity between the proteins.
+<br/><br/><br/><br/><br/><br/>
 
 > ## Module Resources
 >[Download student module here](https://docs.google.com/document/d/1i4u4GSlYjBpuZFZDmeAvgJtnzEV-wBou23XYNLN-5UQ/edit?usp=sharing)

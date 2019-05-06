@@ -14,7 +14,9 @@ objectives:
 keypoints:
 - "Measuring protein concentration is important for determining protein purification yield and amounts to use in further analyses."
 ---
+<img src="../fig/concentration.png" alt="Protein Concentration" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 The determination of protein concentration is an essential skill for biochemists. In earlier BASIL modules, students learned how to express and purify enzymes of unknown function. Determination of protein concentration by a dye-binding assay will enable students to characterize their enzymes in later modules. In the process students will also gain practice with accuracy and precision in pipetting, and data analysis.  At the end of this module, students will have gained both practical and analytical skills that will prepare them for future lab work.
+<br/><br/><br/>
 
 > ## Module Resources
 >[Download student module here](https://docs.google.com/document/d/1gHDLz1EaMjArTJm8YCLCtbqomeES6QX7_L4-Pn3HS-E/edit?usp=sharing)

@@ -16,7 +16,9 @@ keypoints:
 - "This module requires that you to install PyMOL and ProMOL on student-accessible computers and requires internet access."
 
 ---
+<img src="../fig/promol.png" alt="ProMOL" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 ProMOL is a plug-in to the PyMOL molecular graphics environment that enables uses to query any protein structure against a library of more than 1000 annotated enzyme active sites. Results include quantitative measures of the alignment as well as visual inspection of the alignment in the PyMOL molecular viewer. By using these modules, students will learn more about enzyme active sites (catalytic sites). ProMOL also allows them to build their own active site templates to further explore their proteins of unknown function.
+<br/><br/><br/>
 
 > ## Module Resources
 >[Download student module here](https://docs.google.com/document/d/1R1BYVydLCiqRdiHcn39IpeHKp2Ovkqp1HXCZFFh1Nys/edit?usp=sharing)

@@ -18,7 +18,9 @@ keypoints:
 - "Protein expression can be controlled using knowledge of operators and repressors in E. coli."
 
 ---
+<img src="../fig/expression.png" alt="Protein Expression" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 This module addresses how to use a bacterial expression system to produce a protein of interest for use in later experimental studies. The BASIL project uses structures of enzymes to predict their function. To test this predicted function, you must produce and purify the enzyme in the lab and then undertake a series of experiments. Enzymes may be isolated from the organism that naturally produces them, or they may be made by introducing a gene encoding the protein into a bacterial expression system. Bacterial expression systems are easy to work with and can produce a large amount of the desired protein in a short amount of time. By the end of this module, students will obtain bacterial cells containing their protein of interest that can be purified and then analyzed by a variety of experiments contained in other BASIL modules.
+<br/><br/><br/>
 
 > ## Module Resources
 >[Download student module here](https://docs.google.com/document/d/13dr2jT8A44r4yG6oTzFsnALfbNnHu_enPkOiVI8G-ek/edit?usp=sharing)

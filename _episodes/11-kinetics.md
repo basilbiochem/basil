@@ -12,7 +12,9 @@ objectives:
 keypoints:
 - "Determining kinetic parameters for the enzyme of interest can indicate the best substrate(s) for the enzyme and consequently provide insight into its function within an organism."
 ---
+<img src="../fig/kinetics.png" alt="Kinetics" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 Protein kinetic assays are used to quantify the process of enzymatic conversion of a substrate to a product. This quantification provides very useful data towards understanding specificity of enzymes towards their substrates. Kinetic assays also help identify inhibitors and lead to enzyme mechanism information. This module describes the process for obtaining kinetic data for both chymotrypsin and a protein of interest for cleavage of para-nitrophenylacetate to obtain K<sub>M</sub> and V<sub>max</sub> values.
+<br/><br/><br/>
 
 > ## Module Resources
 >[Download student module here](https://docs.google.com/document/d/1nV8T0JmQrVTdcHl2ZQ02UQolsCST8Flmrj13ENstX0M/edit?usp=sharing)

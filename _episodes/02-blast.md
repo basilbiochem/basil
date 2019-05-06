@@ -15,7 +15,9 @@ keypoints:
 - "Protein BLAST searches identify sequence similarity between a query protein and a database of other proteins."
 - "Sequence similarity does not guarantee similarity in function."
 ---
+<img src="../fig/blast.png" alt="BLAST" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 Modern biochemistry includes a wide variety of computational tools to characterize protein structure and function, and these tools must be included in modern biochemistry education.  In this lab activity, we introduce students to BLAST (Basic Local Alignment Search Tool), one of the most popular sequence alignment tools.  The basic syntax of running a BLAST search is presented, followed by a discussion of the interpretation of BLAST results.  The students are then assigned a particular protein to study, generating BLAST results to identify a good match.  In doing so, they must think about the algorithm parameters of BLAST and what parameters will give them the most useful results.  This module can be used in conjunction with other bioinformatics modules from the BASIL group to identify the function of proteins of unknown function.  
+<br/><br/><br/>
 
 > ## Module Resources
 >[Download student module here](https://docs.google.com/document/d/1lDpRryLblGijPvfYKsAvEV8T1vYdN5jXZsh3cpNam6g/edit?usp=sharing)
