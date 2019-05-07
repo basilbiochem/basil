@@ -4,9 +4,9 @@ title: Publications
 **BASIL**
 
   1. Irby SM, Pelaez NJ, Anderson TR. How to Identify the Research Abilities That Instructors Anticipate Students Will Develop in a Biochemistry Course-Based Undergraduate Research Experience (CURE). [CBE Life Sciences Education 17:es4, 1-14 (2018)](https://www.lifescied.org/doi/full/10.1187/cbe.17-12-0250).
-  1. Craig PA, Anderson T, Bernstein HJ, Daubner C, Goodman A, Irby SM, Koeppe J, Mills JL, Pikaart M, Ringer McDonald A‡, O’Handley SF, Roberts R, and Stewart R. Using Protein Function Prediction to Promote Hypothesis-Driven Thinking in Undergraduate Biochemistry Education. The Chemist 91:1-8 (2018).
-  1. Craig, PA. Lessons from my undergraduate research students. Journal of Biological Chemistry, 293, 10447-10452, 2018, DOI: 10.1074/jbc.RA118.003722.
-  1. Craig, PA. A survey on faculty perspectives on the transition to a biochemistry course‐based undergraduate research experience laboratory. Biochemistry and Molecular Biology Education 45, 426-436 (2017) DOI: 10.1002/bmb.21060.
+  1. Craig PA, Anderson T, Bernstein HJ, Daubner C, Goodman A, Irby SM, Koeppe J, Mills JL, Pikaart M, Ringer McDonald A‡, O’Handley SF, Roberts R, and Stewart R. Using Protein Function Prediction to Promote Hypothesis-Driven Thinking in Undergraduate Biochemistry Education. [The Chemist 91:1-8 (2018)](http://www.theaic.org/pub_thechemist_journals/Vol-91-No-1/Vol-91-No1-Article-1.html).
+  1. Craig, PA. Lessons from my undergraduate research students. [Journal of Biological Chemistry, 293, 10447-10452 (2018)](http://www.jbc.org/content/293/27/10447.full), DOI: 10.1074/jbc.RA118.003722.
+  1. Craig, PA. A survey on faculty perspectives on the transition to a biochemistry course‐based undergraduate research experience laboratory. [Biochemistry and Molecular Biology Education 45, 426-436 (2017)](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21060) DOI: 10.1002/bmb.21060.
 
 
 **ProMOL**
