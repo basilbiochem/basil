@@ -43,3 +43,7 @@ Other variables requested by the template
 {% assign source_branch = "" %}
 
 {% endif %}
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}

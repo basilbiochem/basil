@@ -88,3 +88,6 @@ exclude:
 
 # Turn on built-in syntax highlighting.
 highlighter: rouge
+
+# Google Analytics
+google_analytics: UA-139802429-1
