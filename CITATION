@@ -1,1 +1,29 @@
-Craig, P. A.; Bernstein, H.J.; Daubner, S. C.; Irby, S. M.; Koeppe, J. R.; Mills, J. L.; O’Handley, S. F.; Pikaart, M.; McDonald, A. R.; Roberts, R.; Sikora, A. BASIL Biochemistry Curriculum https://basilbiochem.github.io/basil.
+cff-version: 1.0.3
+message: If you use the materials on this website, please cite it as below.
+authors:
+ - family-names: Craig
+   given-names: Paul A.
+ - family-names: Bernstein
+   given-names: Herbert J.
+ - family-names: Daubner
+   given-names: Susan Colette
+ - family-names: Irby
+   given-names: Stefan M.
+ - family-names: Koeppe
+   given-names: Julia R.
+ - family-names: Mills
+   given-names: Jeff L.
+ - family-names: O'Handley
+   given-names: Suzanne F.
+ - family-names: Pikaart
+   given-names: Mike
+ - family-names: Ringer McDonald
+   given-names: Ashley
+   orcid: https://orcid.org/0000-0002-4381-1239
+ - family-names: Roberts
+   given-names: Rebecca
+ - family-names: Sikora
+   given-names: Arthur
+title: BASIL Biochemistry Curriculum https://basilbiochem.github.io/basil
+doi:
+date-released: 2019-5-8
