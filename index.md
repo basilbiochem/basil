@@ -8,7 +8,7 @@ This curriculum from the [BASIL (Biochemistry Authentic Scientific Inquiry Labor
 The curriculum is flexible and can be adapted to match the available facilities, the strengths of the instructor and the learning goals of a course and institution. These lessons are often used as part of upper-level laboratory coursework with at least one semester of biochemistry as a pre-requisite or co-requisite. The lab has been designed for classes ranging from 10-24 students (working in teams of two or three) per lab section. This lesson can be adapted to laboratory courses for introductory biology, cell and molecular biology, or advanced biology labs.
 
 ## Additional Information for Instructors
-Additional information for instructors is available to registered university faculty.  To register, [contact us](mailto:basilbiochem@gmail.com) from your university e-mail address and include your name, university affiliation, and the courses where you are considering using the BASIL curriculum.  Please use the subject line *BASIL Registration* for your e-mail.  
+Additional information for instructors is available to registered university faculty.  To register, [contact us](mailto:basilbiochem@gmail.com) from your university e-mail address and include your name, university affiliation, and the courses where you are considering using the BASIL curriculum.  Please use the subject line *BASIL Registration* for your e-mail. A starter kit of 10 plasmids that work well in this project is available for $25 from [DNASu](https://dnasu.org/DNASU/GetCollection.do?collectionName=BASIL%20starter%20pack%20V1). 
 
 <br/><br/>
 
