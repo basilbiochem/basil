@@ -7,21 +7,25 @@ authors:
    given-names: Herbert J.
  - family-names: Daubner
    given-names: Susan Colette
+   orcid: https://orcid.org/0000-0002-5346-4883
  - family-names: Irby
    given-names: Stefan M.
  - family-names: Koeppe
    given-names: Julia R.
+   orcid: https://orcid.org/0000-0001-6983-1919
  - family-names: Mills
    given-names: Jeff L.
  - family-names: O'Handley
    given-names: Suzanne F.
  - family-names: Pikaart
    given-names: Mike
+   orcid: https://orcid.org/0000-0002-3771-4942
  - family-names: Ringer McDonald
    given-names: Ashley
    orcid: https://orcid.org/0000-0002-4381-1239
  - family-names: Roberts
    given-names: Rebecca
+   orcid: https://orcid.org/0000-0002-3855-0871
  - family-names: Sikora
    given-names: Arthur
 title: BASIL Biochemistry Curriculum https://basilbiochem.github.io/basil
