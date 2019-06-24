@@ -13,7 +13,7 @@ Additional information for instructors is available to registered university fac
 **If you use the resources from this page, please cite this work as:** <br/>
 McDonald AR, Bernstein HJ, Daubner SC, Goodman A, Irby SM, Koeppe JR, Mills JL, O’Handley SF, Pikaart MJ, Roberts RA, Sikora A, Craig, PA.  BASIL Biochemistry Curriculum. https://basilbiochem.github.io/basil/, 2019. <br/>
 [Complete citation information](https://basilbiochem.github.io/basil/full_citation/index.html) <br/>
-[Download citation file](https://raw.githubusercontent.com/basilbiochem/basil/master/CITATION) <br/>
+[Right click to download CFF citation file](https://raw.githubusercontent.com/basilbiochem/basil/master/CITATION) <br/>
 
 <br/><br/>
 
