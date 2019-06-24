@@ -1,13 +1,16 @@
 cff-version: 1.0.3
 message: If you use the materials on this website, please cite it as below.
 authors:
- - family-names: Craig
-   given-names: Paul A.
+ - family-names: Ringer McDonald
+   given-names: Ashley
+   orcid: https://orcid.org/0000-0002-4381-1239
  - family-names: Bernstein
    given-names: Herbert J.
  - family-names: Daubner
-   given-names: Susan Colette
+   given-names: S. Colette
    orcid: https://orcid.org/0000-0002-5346-4883
+ - family-names: Goodman
+   given-names: Anya L.
  - family-names: Irby
    given-names: Stefan M.
  - family-names: Koeppe
@@ -20,14 +23,13 @@ authors:
  - family-names: Pikaart
    given-names: Mike
    orcid: https://orcid.org/0000-0002-3771-4942
- - family-names: Ringer McDonald
-   given-names: Ashley
-   orcid: https://orcid.org/0000-0002-4381-1239
  - family-names: Roberts
    given-names: Rebecca
    orcid: https://orcid.org/0000-0002-3855-0871
  - family-names: Sikora
    given-names: Arthur
+ - family-names: Craig
+   given-names: Paul A.
 title: BASIL Biochemistry Curriculum https://basilbiochem.github.io/basil
 doi:
 date-released: 2019-5-8
