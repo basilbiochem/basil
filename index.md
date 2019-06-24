@@ -10,7 +10,7 @@ The curriculum is flexible and can be adapted to match the available facilities,
 ## Additional Information for Instructors
 Additional information for instructors is available to registered university faculty.  Learn more on our [instructor information page](https://basilbiochem.github.io/basil/guide/index.html).
 
-If you use the resources from this page, please cite this work as: <br/>
+**If you use the resources from this page, please cite this work as:** <br/>
 McDonald AR, Bernstein HJ, Daubner SC, Goodman A, Irby SM, Koeppe JR, Mills JL, O’Handley SF, Pikaart MJ, Roberts RA, Sikora A, Craig, PA.  BASIL Biochemistry Curriculum. https://basilbiochem.github.io/basil/, 2019. <br/>
 [Complete citation information](https://basilbiochem.github.io/basil/full_citation/index.html) <br/>
 [Download citation file](https://github.com/basilbiochem/basil/blob/master/CITATION) <br/>
