@@ -12,4 +12,6 @@ Ashley Ringer McDonald<sup>1</sup> , Herbert J. Bernstein<sup>2</sup>, S. Colett
 <sup>7</sup>Ursinus College, Collegeville PA <br/>
 <sup>8</sup>Nova Southeastern University, Fort Lauderdale FL <br/>
 
+[Right click to download CFF citation file](https://raw.githubusercontent.com/basilbiochem/basil/master/CITATION)
+
 {% include links.md %}
