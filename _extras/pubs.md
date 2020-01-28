@@ -2,7 +2,8 @@
 title: Publications
 ---
 **BASIL**
-  1. Roberts R, Hall B, Daubner C, Goodman A, Pikaart, M, Sikora A, Craig P. Flexible Implementation of the BASIL CURE, [Biochemistry and Molecular Biology Education 47:498-505 (2019)] https://doi.org/10.1002/bmb.21287.
+  1. Irby SM, Pelaez NJ, Anderson TR. Student Perceptions of Their Gains in Course-Based Undergraduate Research Abilities Identified as the Anticipated Learning Outcomes for a Biochemistry CURE. [Journal of Chemical Education, 97(1), 55–65 (2020)](https://doi.org/10.1021/acs.jchemed.9b00440) 
+  1. Roberts R, Hall B, Daubner C, Goodman A, Pikaart M, Sikora A, Craig P. Flexible Implementation of the BASIL CURE, [Biochemistry and Molecular Biology Education 47:498-505 (2019)](https://doi.org/10.1002/bmb.21287)
   1. Irby, SM, Pelaez, NJ, Anderson, TR. Anticipated Learning Outcomes for a Biochemistry Course-based Undergraduate Research Experience Aimed at Predicting Protein Function from Structure: Implications for Assessment Design. [Biochemistry and Molecular Biology Education, 46(5), 478–492 (2018)](https://doi.org/10.1002/bmb.21173)
   1. Irby SM, Pelaez NJ, Anderson TR. How to Identify the Research Abilities That Instructors Anticipate Students Will Develop in a Biochemistry Course-Based Undergraduate Research Experience (CURE). [CBE Life Sciences Education 17:es4, 1-14 (2018)](https://www.lifescied.org/doi/full/10.1187/cbe.17-12-0250).
   1. Craig PA, Anderson T, Bernstein HJ, Daubner C, Goodman A, Irby SM, Koeppe J, Mills JL, Pikaart M, Ringer McDonald A‡, O’Handley SF, Roberts R, and Stewart R. Using Protein Function Prediction to Promote Hypothesis-Driven Thinking in Undergraduate Biochemistry Education. [The Chemist 91:1-8 (2018)](http://www.theaic.org/pub_thechemist_journals/Vol-91-No-1/Vol-91-No1-Article-1.html).
