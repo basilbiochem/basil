@@ -7,6 +7,8 @@ This curriculum from the [BASIL (Biochemistry Authentic Scientific Inquiry Labor
 
 The curriculum is flexible and can be adapted to match the available facilities, the strengths of the instructor and the learning goals of a course and institution. These lessons are often used as part of upper-level laboratory coursework with at least one semester of biochemistry as a pre-requisite or co-requisite. The lab has been designed for classes ranging from 10-24 students (working in teams of two or three) per lab section. This lesson can be adapted to laboratory courses for introductory biology, cell and molecular biology, or advanced biology labs.
 
+** In light of extenuating circumstances created by the Covid-19 pandemic, many instructors now find themselves suddenly teaching online.  Please see the Resources for Online Teaching page under the Extras menu for more information about how the BASIL curriculum can be used in online instruction.**
+
 ## Additional Information for Instructors
 Additional information for instructors is available to registered university faculty.  Learn more on our [instructor information page](https://basilbiochem.github.io/basil/guide/index.html).
 
