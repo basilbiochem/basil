@@ -13,3 +13,5 @@ The existing *in silico* BASIL modules could be used in an online or virtual env
 Additional Resources which might be used in place of traditional laboratory activities.  
 
 - [Simulated protein purification activity for biochem lab](https://docs.google.com/document/d/1hdy8FbkrIJDQKLLbuXZ5ETfZcX9kwLFVH0lGRs28z5A/edit?usp=sharing) This exercise can be used in an online class to substitute for protein purification laboratory activities.  The simulation environment compels students to apply their conceptual knowledge to make decisions related to the protein purification process and provides immediate feedback on these decisions.
+
+- [Kinetics data for some BASIL proteins](https://drive.google.com/open?id=1BK3pXu6CzkkdmTHyBCRW6tvMLrTi1pxM) This folder contains data from wet lab kinetics experiments using several of the BASIL proteins currently under investigation, and for Chymotrypsin.
