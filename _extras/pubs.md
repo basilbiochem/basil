@@ -2,7 +2,12 @@
 title: Publications
 ---
 **BASIL**
-  1. Irby SM, Pelaez NJ, Anderson TR. Student Perceptions of Their Gains in Course-Based Undergraduate Research Abilities Identified as the Anticipated Learning Outcomes for a Biochemistry CURE. [Journal of Chemical Education, 97(1), 55–65 (2020)](https://doi.org/10.1021/acs.jchemed.9b00440) 
+  1. Sikora A, Irby SM, Hall BL, Mills SA, Koeppe JR, Pikaart MJ, Wilner SE, Craig PA, Roberts, R. Responses to the COVID-19 Pandemic by the Biochemistry Authentic Scientific Inquiry Lab (BASIL) CURE Consortium: Reflections and a Case Study on the Switch to Remote Learning. [Journal of Chemical Education (2020)](https://doi.org/10.1021/acs.jchemed.0c00729)
+  1. Burley SK, Bromberg Y, Craig P, Duffy S, Dutta S, Hall BL, Hudson BP, Jiang J, Khare SD, Koeppe JR, Lubin JH, Mills SA, Pikaart MJ, Roberts R, Sarma V, Singh J, Tischfield JA, Xie L, Zardecki C. Virtual Book Camp: COVID-19 evolution and structural biology. [Biochemistry and Molecular Biology Education (2020)](https://doi.org/10.1002/bmb.21428)
+  2. Craig PA. Something old, something new: Teaching the BMB lab. [Biochemistry and Molecular Biology Education (2020)](https://doi.org/10.1002/bmb.21359)
+  3. Craig PA. Publishing your educational research. [Biochemistry and Molecular Biology Education (2020)](https://doi.org/10.1002/bmb.21358)
+  4. Craig PA. Developing and applying computational resources for biochemistry education. [Biochemistry and Molecular Biology Education (2020)](https://doi.org/10.1002/bmb.21347)
+  1. Irby SM, Pelaez NJ, Anderson TR. Student Perceptions of Their Gains in Course-Based Undergraduate Research Abilities Identified as the Anticipated Learning Outcomes for a Biochemistry CURE. [Journal of Chemical Education, 97(1), 55–65 (2020)](https://doi.org/10.1021/acs.jchemed.9b00440)
   1. Roberts R, Hall B, Daubner C, Goodman A, Pikaart M, Sikora A, Craig P. Flexible Implementation of the BASIL CURE, [Biochemistry and Molecular Biology Education 47:498-505 (2019)](https://doi.org/10.1002/bmb.21287)
   1. Irby, SM, Pelaez, NJ, Anderson, TR. Anticipated Learning Outcomes for a Biochemistry Course-based Undergraduate Research Experience Aimed at Predicting Protein Function from Structure: Implications for Assessment Design. [Biochemistry and Molecular Biology Education, 46(5), 478–492 (2018)](https://doi.org/10.1002/bmb.21173)
   1. Irby SM, Pelaez NJ, Anderson TR. How to Identify the Research Abilities That Instructors Anticipate Students Will Develop in a Biochemistry Course-Based Undergraduate Research Experience (CURE). [CBE Life Sciences Education 17:es4, 1-14 (2018)](https://www.lifescied.org/doi/full/10.1187/cbe.17-12-0250).
