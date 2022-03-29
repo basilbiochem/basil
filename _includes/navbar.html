@@ -20,7 +20,7 @@
       </a>
 
       {% comment %} Always show link to home page. {% endcomment %}
-      <a class="navbar-brand" href="{{ relative_root_path }}{% link index.md %}">Home</a>
+      <a class="navbar-brand" href="{{ relative_root_path }}{% link index.md %}">Curriculum</a>
 
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -29,7 +29,7 @@
 
         {% if site.kind == "lesson" %}
 	{% comment %} Show setup instructions. {% endcomment %}
-        <li><a href="{{ relative_root_path }}{% link setup.md %}">Introduction</a></li>
+        <li><a href="{{ relative_root_path }}{% link intro.md %}">Introduction</a></li>
 
         {% comment %} Show lesson episodes for lessons. {% endcomment %}
         <li class="dropdown">
