@@ -3,7 +3,11 @@ title: Meet the BASIL Team
 ---
 <img src="../fig/Craig.jpg" alt="Picture of Paul Craig" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 
-**Paul Craig** is a computational biochemist who teaches general chemistry for engineers and is the Director of the BASIL project. In addition to BASIL, he works on [Python Scripting for Biochemistry & Molecular Biology](http://education.molssi.org/python-scripting-biochemistry/chapters/setup.html), [simulations of chemical separations](https://github.com/RITJBF/JBioFramework) and virtual reality.  <br> <br> <br>
+**Paul Craig** is a computational biochemist who teaches general chemistry for engineers and is the Director of the BASIL project. In addition to BASIL, he works on [Python Scripting for Biochemistry & Molecular Biology](http://education.molssi.org/python-scripting-biochemistry/chapters/setup.html), [simulations of chemical separations](https://github.com/RITJBF/JBioFramework) and virtual reality.  <br> <br> <br>  <br> <br> <br> <br>
+
+<img src="../fig/Hall.jpg" alt="Picture of Bonnie Hall" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
+
+**Bonnie Hall** is a biochemist who teaches introductory and upper division biochemistry courses for science majors. She uses BASIL in her biochemistry laboratory course. She also has a growing interest in machine learning and predictive modeling.  <br> <br> <br> <br> <br> <br> <br>
 
 <img src="../fig/ARM9.jpg" alt="Picture of Ashley Ringer McDonald" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 
