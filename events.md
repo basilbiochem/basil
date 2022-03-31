@@ -1,7 +1,7 @@
 ---
 title: Events
 ---
-## Interested in Learning More about BASIL? Join us at an Upcoming Event!
+## Interested in Learning More about BASIL? <br> Join us at an Upcoming Event!
 
 #### Introduction to the BASIL Curriculum
 In these workshops participants will learn about the distinguishing characteristics of course-based undergraduate research experiences (CUREs), be introduced to the curriculum used to implement BASIL CUREs in diverse institutional contexts, and create an action plan for how to adapt BASIL for your own course. Participants will gain hands-on experience with web-based BASIL resources and guidance in how to assess student learning in BASIL CUREs.  Finally, participants will be invited to join a rich community of biochemists committed to increasing access to undergraduate research. <br>
