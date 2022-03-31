@@ -9,8 +9,6 @@ title: Contact Us
 [Follow us on Twitter](https://twitter.com/BLbiochem)
 <br/><br/><br/><br/>
 
-<img src="../assets/img/blogger.png" alt="Blogger logo" width="30" style="float: left; margin-top: 0px; margin-right: 10px" />
-[Check out our blog](https://basiliuse.blogspot.com/)
-<br/><br/>
+See our [instructor information page](https://basilbiochem.github.io/basil/guide/index.html) for more information on joining our community! 
 
 {% include links.md %}
