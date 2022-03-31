@@ -4,7 +4,7 @@ title: Events
 ## Interested in Learning More about BASIL? Join us at an Upcoming Event!
 
 #### Introduction to the BASIL Curriculum
-This workshop will provide an introduction to CUREs, an overview of the BASIL CURE curriculum, and will emphasize community building. Participants will gain hands-on experience with web-based BASIL resources, an introduction to assessment, and information on how to further engage with the BASIL community. The workshop will also explore common barriers encountered when implementing a CURE and some ways to overcome these. Participants will create an implementation plan to use on their home campus. <br>
+In these workshops participants will learn about the distinguishing characteristics of course-based undergraduate research experiences (CUREs), be introduced to the curriculum used to implement BASIL CUREs in diverse institutional contexts, and create an action plan for how to adapt BASIL for your own course. Participants will gain hands-on experience with web-based BASIL resources and guidance in how to assess student learning in BASIL CUREs.  Finally, participants will be invited to join a rich community of biochemists committed to increasing access to undergraduate research. <br>
 **Workshop cost:** Free <br>
 **Date and Time:** Sept. 24, 2022 and Feb. 23, 2023, virtual on zoom <br>
 Register here
