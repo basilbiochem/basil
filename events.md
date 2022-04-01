@@ -7,7 +7,7 @@ title: Events
 In these workshops participants will learn about the distinguishing characteristics of course-based undergraduate research experiences (CUREs), be introduced to the curriculum used to implement BASIL CUREs in diverse institutional contexts, and create an action plan for how to adapt BASIL for your own course. Participants will gain hands-on experience with web-based BASIL resources and guidance in how to assess student learning in BASIL CUREs.  Finally, participants will be invited to join a rich community of biochemists committed to increasing access to undergraduate research. <br>
 **Workshop cost:** Free <br>
 **Date and Time:** Sept. 24, 2022 and Feb. 23, 2023, virtual on zoom <br>
-Register here
+[Register here](https://forms.gle/vf1vu7SVHNW1zGx1A)
 
 ### Workshops at the [Biennial Conference on Chemical Education](https://www.bcce2022.org/)
 
