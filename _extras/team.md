@@ -27,7 +27,7 @@ title: Meet the BASIL Team
 
 <img src="../fig/mills.jpg" alt="Picture of Steve Mills" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 
-**Steve Mills** is a biochemist in the Chemistry Department at Xavier University. He teaches Biochemistry and Organic Chemistry. He uses BASIL in his Biochemistry Lab course. His research background is in using enzyme kinetics to determine enzyme mechanisms. <br> <br> <br> <br> <br> 
+**Steve Mills** is a biochemist in the Chemistry Department at Xavier University. He teaches Biochemistry and Organic Chemistry. He uses BASIL in his Biochemistry Lab course. His research background is in using enzyme kinetics to determine enzyme mechanisms. <br> <br> <br> <br> <br> <br>
 
 <img src="../fig/Offerdahl.png" alt="Picture of Erika Offerdahl" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 
