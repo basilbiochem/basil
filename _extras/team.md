@@ -5,13 +5,29 @@ title: Meet the BASIL Team
 
 **Paul Craig** is a computational biochemist who teaches general chemistry for engineers and is the Director of the BASIL project. In addition to BASIL, he works on [Python Scripting for Biochemistry & Molecular Biology](http://education.molssi.org/python-scripting-biochemistry/chapters/setup.html), [simulations of chemical separations](https://github.com/RITJBF/JBioFramework) and virtual reality.  <br> <br> <br>  <br> <br> <br> <br>
 
+<img src="../fig/dattelbaum.jpg" alt="Picture of John Dattelbaum" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
+
+**Jon Dattelbaum** is a biochemist at University of Richmond. In addition to incorporating BASIL modules into lab and lecture classes, his research focuses on the biophysical characterization of thermophilic proteins and fluorescent protein biosensors. <br> <br> <br>  <br> <br> <br> <br>
+
 <img src="../fig/Hall.jpg" alt="Picture of Bonnie Hall" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 
 **Bonnie Hall** is a biochemist who teaches introductory and upper division biochemistry courses for science majors. She uses BASIL in her biochemistry laboratory course. She also has a growing interest in machine learning and predictive modeling.  <br> <br> <br> <br> <br> <br> <br>
 
+<img src="../fig/pikaart.jpg" alt="Picture of Mike Pikaart" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
+
+**Mike Pikaart** is a biochemist at Hope College in Michigan.  He teaches general and introductory chemistry in addition to biochemistry.  With a research background in chromatin structure and gene regulation, and more recently does research with his undergraduate students on the microbiology and chemistry of recreational and drinking water. <br> <br> <br> <br> <br> 
+
 <img src="../fig/Koeppe.jpg" alt="Picture of Julia Koeppe" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 
 **Julia Koeppe** is an associate professor of chemistry at SUNY Oswego. She uses BASIL in biochemistry laboratory courses for both majors and nonmajors as well as for independent student research projects. <br> <br> <br> <br> <br> 
+
+<img src="../fig/mclaughlin.jpg" alt="Picture of Krystle McLaughlin" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
+
+**Krystle J. McLaughlin** is an assistant professor in the Chemistry Department at Vassar College. She teaches biophysical chemistry and biochemistry. Her research makes primary use of macromolecular x-ray crystallography to investigate protein structure and function, focusing on proteins essential to antibiotic resistance in Staphylococcus & Salmonella. In addition to using BASIL modules, she is interested in bringing macromolecular x-ray crystallography into CUREs. <br> <br> <br> <br> <br> <br>
+
+<img src="../fig/mills.jpg" alt="Picture of Steve Mills" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
+
+**Steve Mills** is a biochemist in the Chemistry Department at Xavier University. He teaches Biochemistry and Organic Chemistry. He uses BASIL in his Biochemistry Lab course. His research background is in using enzyme kinetics to determine enzyme mechanisms. <br> <br> <br> <br> <br> 
 
 <img src="../fig/Offerdahl.png" alt="Picture of Erika Offerdahl" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 
