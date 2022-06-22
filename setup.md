@@ -21,6 +21,6 @@ McDonald AR, Bernstein HJ, Dattelbaum JD, Daubner SC, Goodman A, Hall BL, Irby S
 #### Acknowledgements
 <img src="fig/NSF_logo.png" alt="NSF logo" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
 
-This work is supported by NSF IUSE 1503811, 1503699, 1502720, 1503676, 1503710, 1503798, 1503734, 1709170, 1709805, 1709592, 1710583, 1709355, 1709278, and 1710051. 
+This work is supported by NSF IUSE 2142033, 2141854, 2141871, 2141873, 2141879, 2141908, 2141910, 2142040, 2142088.  Prior NSF support from NSF IUSE 1503811, 1503699, 1502720, 1503676, 1503710, 1503798, 1503734, 1709170, 1709805, 1709592, 1710583, 1709355, 1709278, and 1710051. 
 
 {% include links.md %}
