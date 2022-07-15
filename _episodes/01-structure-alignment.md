@@ -8,10 +8,10 @@ objectives:
 - "Students will describe typical characteristics of an enzyme active site.
 Students will understand and be able to explain the term motif and apply it to enzyme active sites."
 - "Students will be able to query structures of unknown function against a library of enzyme active site motif templates."
-- "Students will distinguish between good alignments and poor alignments of unknown versus known proteins based on Levenshtein distance (a measure of the similarity between two data sets), RMSD values (a measure of the differences between values), and visual alignments."
+- "Students will distinguish between good alignments and poor alignments."
 - "Students will propose a function for proteins of unknown function and develop plans for testing their hypothesis in silico and in vitro."
 keypoints:
-- "Your students will use a computer alignment algorithm that includes quantitative measures (Levenshtein distance and RMSD values) and visual inspection to measure quality of alignments."
+- "Your students will use a computer alignment algorithm that includes quantitative measures and visual inspection to measure quality of alignments."
 - "These results can be compared and contrasted with sequence alignment (BLAST, Pfam) and and full backbone alignment (Dali) results in other BASIL modules."
 
 ---
