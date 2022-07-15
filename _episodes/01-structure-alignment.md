@@ -1,9 +1,9 @@
 ---
-title: "Structural Alignment with PyMOL and ProMOL"
+title: "Structural Alignment with SPRITE and Chimera"
 teaching: 30
 exercises: 120
 questions:
-- "How are PyMOL and ProMOL used to align active sites?"
+- "How can structural alignment be used to study protein function?"
 objectives:
 - "Students will describe typical characteristics of an enzyme active site.
 Students will understand and be able to explain the term motif and apply it to enzyme active sites."
@@ -13,13 +13,12 @@ Students will understand and be able to explain the term motif and apply it to e
 keypoints:
 - "Your students will use a computer alignment algorithm that includes quantitative measures (Levenshtein distance and RMSD values) and visual inspection to measure quality of alignments."
 - "These results can be compared and contrasted with sequence alignment (BLAST, Pfam) and and full backbone alignment (Dali) results in other BASIL modules."
-- "This module requires that you to install PyMOL and ProMOL on student-accessible computers and requires internet access."
 
 ---
 <img src="../fig/promol.png" alt="ProMOL" width="100" style="float: left; margin-top: 0px; margin-right: 10px" />
-ProMOL is a plug-in to the PyMOL molecular graphics environment that enables uses to query any protein structure against a library of more than 1000 annotated enzyme active sites. Results include quantitative measures of the alignment as well as visual inspection of the alignment in the PyMOL molecular viewer. By using these modules, students will learn more about enzyme active sites (catalytic sites). ProMOL also allows them to build their own active site templates to further explore their proteins of unknown function.
+SPRITE is a software package that can search the structure of a protein to determine if it has an active site with a motif of known catalytic function. The active site of an enzyme is the region of the protein where the substrate binds and the chemical reaction takes place. This is often a groove or pocket on the surface of the enzyme that allows the substrate to bind. This region also contains the amino acids necessary for catalysis to occur. The arrangement of those amino acids in space is called a motif. 
 <br/><br/><br/>
 
 > ## Module Resources
->[Download student module here](https://docs.google.com/document/d/1R1BYVydLCiqRdiHcn39IpeHKp2Ovkqp1HXCZFFh1Nys/edit?usp=sharing)
+>[Download student module here](https://docs.google.com/document/d/1ofdsUGAQmP-5c48BwUzvjPoeNHz782mfkSfNVA57LiE/edit?usp=sharing)
 {: .callout}
