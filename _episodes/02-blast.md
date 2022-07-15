@@ -20,5 +20,5 @@ Modern biochemistry includes a wide variety of computational tools to characteri
 <br/><br/><br/>
 
 > ## Module Resources
->[Download student module here](https://docs.google.com/document/d/1brMHquSI3jbA-sQ0WjqB-E95HiDER1Km5icgFPsAC-M/edit?usp=sharing)
+>[Access student module here](https://docs.google.com/document/d/1brMHquSI3jbA-sQ0WjqB-E95HiDER1Km5icgFPsAC-M/edit?usp=sharing)
 {: .callout}
