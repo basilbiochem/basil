@@ -19,5 +19,5 @@ Dali is a structural alignment tool that aligns entire protein structures.  The 
 <br/><br/><br/><br/><br/><br/>
 
 > ## Module Resources
->[Download student module here](https://docs.google.com/document/d/11Ks3vqKGT1g77B4Mv56gN6D-BJaxbfG1hgN-Nqs0KhA/edit?usp=sharing)
+>[Download student module here](https://docs.google.com/document/d/12TtvmmGAFHEioHsvWqtnNo1B2nrOdNUQO-QfLUGanug/edit?usp=sharing)
 {: .callout}
