@@ -21,5 +21,5 @@ Pfam (“Protein Families”) is a database that groups proteins into evolutiona
 <br/><br/><br/>
 
 > ## Module Resources
->[Download student module here](https://docs.google.com/document/d/1LqE5NEj4q99SVku14ekjbcF19CdFqp2IpLlAOSHNpsY/edit?usp=sharing)
+>[Access student module here](https://docs.google.com/document/d/1LqE5NEj4q99SVku14ekjbcF19CdFqp2IpLlAOSHNpsY/edit?usp=sharing)
 {: .callout}
