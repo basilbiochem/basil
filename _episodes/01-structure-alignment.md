@@ -20,5 +20,5 @@ SPRITE is a software package that can search the structure of a protein to deter
 <br/><br/><br/>
 
 > ## Module Resources
->[Download student module here](https://docs.google.com/document/d/1ofdsUGAQmP-5c48BwUzvjPoeNHz782mfkSfNVA57LiE/edit?usp=sharing)
+>[Access student module here](https://docs.google.com/document/d/1ofdsUGAQmP-5c48BwUzvjPoeNHz782mfkSfNVA57LiE/edit?usp=sharing)
 {: .callout}
