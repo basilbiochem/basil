@@ -1,16 +1,14 @@
 ---
-title: "Molecular Docking with AutoDock VINA and PyRx"
+title: "Molecular Docking with SwissDock"
 teaching: 30
 exercises: 180
 questions:
 - "How is molecular docking used to screen for small molecule binding?"
 objectives:
-- "Students will explain the file types used in PyRx."
-- "Students will use appropriate inputs and outputs for PyRx."
-- "Students will differentiate between good binding and poor binding in PyRx."
-- "Students will modify a ligand to increase binding affinity to the target protein."
-- "Students will visualize the ligand-protein results from PyRx and identify key interactions that stabilize binding."
-- "Students will compare the ligand binding pocket suggested by PyRx with the ligand binding pocket suggested by LigPlot+."
+- "Students will explain the file types used in SwissDock."
+- "Students will use appropriate inputs and outputs for SwissDock."
+- "Students will differentiate between good binding and poor binding in SwissDock."
+- "Students will visualize the ligand-protein results from SwissDock and identify key interactions that stabilize binding."
 
 keypoints:
 - "Noncovalent interactions stabilize the binding of ligands to macromolecules like proteins."
@@ -21,5 +19,5 @@ Computational science is an increasingly important part of biochemistry.  In thi
 <br/><br/><br/>
 
 > ## Module Resources
->[Download student module here](https://docs.google.com/document/d/1Ni77kjCfAvSFSXAkZsboDQ80UUu2YGJ232jS499TR5Y/edit?usp=sharing)
+>[Download student module here](https://docs.google.com/document/d/13Ou0UqqZSbwuXGVSG8SnHhAn_OoeV4gC22lB8s3Kvp8/edit)
 {: .callout}
